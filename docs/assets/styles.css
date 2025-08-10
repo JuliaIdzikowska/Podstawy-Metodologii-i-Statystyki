@@ -1,0 +1,10 @@
+.quarto-title-meta {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quarto-title-meta-author,
+.quarto-title-meta-affiliation {
+  flex: 1;
+}
+

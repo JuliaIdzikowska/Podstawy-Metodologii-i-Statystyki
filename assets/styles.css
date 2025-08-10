@@ -8,3 +8,6 @@
   flex: 1;
 }
 
+.navbar-brand img {
+  height: 250px !important; /* zmień np. na 100px, jeśli chcesz jeszcze większe */
+}

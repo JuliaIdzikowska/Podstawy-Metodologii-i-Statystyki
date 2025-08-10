@@ -11,6 +11,71 @@ format:
     self-contained: true
     toc: true
     toc-location: left
+    include-in-header:
+      - text: |
+          <style>
+            body[data-locked="1"] .page-columns,
+            body[data-locked="1"] .quarto-container,
+            body[data-locked="1"] header,
+            body[data-locked="1"] nav,
+            body[data-locked="1"] footer { display:none!important; }
+            #lock-screen{position:fixed;inset:0;display:grid;place-items:center;background:rgba(0,0,0,.55);z-index:9999;font-family:system-ui}
+            #lock-card{background:#fff;padding:2rem;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.25);max-width:420px;width:92%}
+            #lock-card h1{margin:0 0 .5rem 0;font-size:1.25rem}
+            #lock-card p{margin:0 0 1rem 0;color:#444}
+            #lock-card input{width:100%;padding:.7rem .8rem;font-size:1rem;border:1px solid #ccc;border-radius:8px}
+            #lock-card button{margin-top:.9rem;width:100%;padding:.7rem .8rem;font-size:1rem;border:0;border-radius:8px;background:#0d6efd;color:#fff;cursor:pointer}
+            #lock-error{color:#b00020;font-size:.9rem;margin-top:.5rem;display:none}
+          </style>
+    include-after-body:
+      - text: |
+          <div id="lock-screen" hidden>
+            <div id="lock-card">
+              <h1>Dostęp chroniony</h1>
+              <p>Podaj hasło, aby przejść do treści.</p>
+              <form id="lock-form">
+                <input id="lock-pass" type="password" placeholder="Hasło" required>
+                <button type="submit">Zaloguj</button>
+                <div id="lock-error">Nieprawidłowe hasło.</div>
+              </form>
+            </div>
+          </div>
+          <script>
+          (function(){
+            var PASS = "S2526";            // ← ustaw swoje hasło
+            var KEY  = "qpass_ok_" + location.pathname;
+
+            function lock(){ document.body.setAttribute("data-locked","1"); document.getElementById("lock-screen").hidden = false; }
+            function unlock(){ document.body.removeAttribute("data-locked"); document.getElementById("lock-screen").hidden = true; }
+
+            document.addEventListener("DOMContentLoaded", function(){
+              // Nie pytaj o hasło w podglądzie lokalnym (ułatwia pracę w RStudio)
+              if (location.hostname === "localhost" || location.hostname === "127.0.0.1") { unlock(); return; }
+
+              if (sessionStorage.getItem(KEY) === "1") { unlock(); return; }
+              lock();
+
+              var form  = document.getElementById("lock-form");
+              var input = document.getElementById("lock-pass");
+              var error = document.getElementById("lock-error");
+              input.focus();
+
+              form.addEventListener("submit", function(e){
+                e.preventDefault();
+                if (input.value === PASS){
+                  sessionStorage.setItem(KEY, "1");
+                  unlock();
+                } else {
+                  error.style.display = "block";
+                  input.value = "";
+                  input.focus();
+                }
+              });
+            });
+          })();
+          </script>
+
+    
 
 lang: pl
 execute: 

@@ -40,6 +40,11 @@ format:
       - brand
     css: assets/styles.css
     toc: true
+    toc-location: left
+
+
+
+
 
 
 
