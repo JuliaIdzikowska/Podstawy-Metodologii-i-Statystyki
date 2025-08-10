@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Podstawy Metodologii i Statystyki",
     "section": "",
-    "text": "Ta strona jest poświęcona kursowi Podstaw Metodologii i Statystyki.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Wprowadzenie do kursu\n\n\nMateriały do kursu\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nSee this specific code\n```{r}\n1 + 1\n```\n\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Cwiczenia.html",
+    "href": "Cwiczenia.html",
+    "title": "Ćwiczenia - plan i tematy",
+    "section": "",
+    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne\n\nwriteLines(hub, “Cwiczenia.qmd”)"
+  },
+  {
+    "objectID": "Cwiczenia.html#plan-ćwiczeń",
+    "href": "Cwiczenia.html#plan-ćwiczeń",
+    "title": "Ćwiczenia - plan i tematy",
+    "section": "",
+    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne\n\nwriteLines(hub, “Cwiczenia.qmd”)"
   }
 ]

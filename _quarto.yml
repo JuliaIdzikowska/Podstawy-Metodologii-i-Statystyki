@@ -2,13 +2,36 @@ project:
   type: website
   output-dir: docs
 
+lang: pl
+
 website:
-  title: "Podstawy Metodologii i Statystyki"
+  title: "Podstawy Metodologii i Statystyki - Ćwiczenia"
   navbar:
+    pinned: true
+    logo: swpslogo/uniwersytet-swps_wheel_bt.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Wprowadzenie
+      - href: Cwiczenia.qmd
+        text: Ćwiczenia
+        menu:
+          - href: Cwiczenia/SPSS.qmd
+            text: 1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych
+          - href: Cwiczenia/Statystyki_opisowe.qmd
+            text: 2. Statystyki opisowe zmiennych | Rozkład normalny | Testy normalności rozkładu
+          - href: Cwiczenia/Analiza_korelacji.qmd
+            text: 3. Analiza korelacji | Zasady wyboru współczynnika korelacji | Współczynnik determinacji | Analiza kontyngencji
+          - href: Cwiczenia/Jednozmiennowa_analiza.qmd
+            text: 4. Jednozmiennowa analiza regresji | Równanie regresji | Miary dopasowania modelu, współczynniki regresji
+          - href: Cwiczenia/Parametryczne_testy.qmd
+            text: "5. Parametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby | Test jednorodności wariancji"
+          - href: Cwiczenia/Nieparametryczne_testy.qmd
+            text: "6. Nieparametryczne testy różnic: test U Manna- Whitneya, test Wilcoxona"
+      - href: Zadania.qmd
+        text: Zadania
+      - href: Literatura.qmd
+        text: Literatura
+
 
 format:
   html:

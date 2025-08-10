@@ -1,0 +1,4 @@
+---
+title: "Parametryczne_testy"
+---
+

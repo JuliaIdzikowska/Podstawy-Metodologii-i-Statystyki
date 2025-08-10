@@ -1,8 +1,31 @@
 ---
 title: "Podstawy Metodologii i Statystyki"
+author: "Julia Idzikowska"
+data: today 
+format:
+  html:
+    self-contained: true
+    toc: true
+    toc-location: left
+
+lang: pl
+execute: 
+  echo: fenced
+  message: true
+  error: true
+code-fold: true
+code-summary: See this specific code
+warning: false 
+code-annotation: select
 ---
 
-Ta strona jest poświęcona kursowi Podstaw Metodologii i Statystyki.
+# Wprowadzenie do kursu
+
+# Materiały do kursu
+
+
+
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

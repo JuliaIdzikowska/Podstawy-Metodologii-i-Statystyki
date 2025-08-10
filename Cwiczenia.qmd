@@ -1,0 +1,16 @@
+---
+title: "Ćwiczenia - plan i tematy"
+---
+
+## Plan ćwiczeń 
+
+1. [SPSS — Tworzenie baz danych i podstawowe operacje](Cwiczenia/SPSS.qmd)
+2. [Statystyki opisowe zmiennych](Cwiczenia/Statystyki_opisowe.qmd)
+3. [Analiza korelacji](Cwiczenia/Analiza_korelacji.qmd)
+4. [Jednozmiennowa analiza regresji](Cwiczenia/Jednozmiennowa_analiza.qmd)
+5. [Testy parametryczne](Cwiczenia/Parametryczne_testy.qmd)
+6. [Testy nieparametryczne](Cwiczenia/Nieparametryczne_testy.qmd)
+
+
+
+writeLines(hub, "Cwiczenia.qmd")
