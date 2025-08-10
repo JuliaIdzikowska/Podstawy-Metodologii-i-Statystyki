@@ -88,6 +88,11 @@ warning: false
 code-annotation: select
 ---
 
+::: {.callout-warning}
+## 🔒 Dostęp tylko dla uczestników kursu
+Materiały są chronione hasłem i przeznaczone wyłącznie dla studentów tego kursu.
+:::
+
 ## Wprowadzenie do kursu
 
 Kurs z **Podstaw metodologii i statystyki** ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie **SPSS**, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.
@@ -160,7 +165,7 @@ Podczas ćwiczeń będziemy pracować w oparciu o:
 > 💡 **Wskazówka:** Polecam po każdych zajęciach wrócić do tematu i powtórzyć materiał. Polecam też nie wyprzedzać i podążać zgodnie z Planem i grupą. I polecam sięgać po literaturę :)
 
 **Zadania domowe** znajdziesz w osobnej zakładce **[Zadania](Zadania.qmd)** w menu głównym.  
-Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do pobrania.  
+Będą się tam pojawiały zadania domowe, dodatkowe przykłady, instrukcje do przesyłania zadań oraz pliki do pobrania.
 
 > 🧠 **Poziom mistrza** – dodatkowe wyzwania w zadaniach pozwolą Ci utrwalić materiał i przećwiczyć nowe umiejętności. Warto!
 
@@ -238,6 +243,7 @@ Są to dni naszych zajęć. Obie grupy mają zajęcia w ten sam dzień.
 
 > **Obie grupy** realizują zajęcia w te same dni, w różnych godzinach (poza pierwszymi zajęciami).  
 > Konsultacje odbywają się w sali **Ku A.318**.  
+> 
 :::
 
 <br><br>
