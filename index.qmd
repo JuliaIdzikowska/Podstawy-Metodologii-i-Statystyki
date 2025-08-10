@@ -2,7 +2,7 @@
 title: "Podstawy Metodologii i Statystyki"
 ---
 
-This is a Quarto website.
+Ta strona jest poświęcona kursowi Podstaw Metodologii i Statystyki.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
