@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Podstawy Metodologii i Statystyki",
+    "title": "Podstawy metodologii i statystyki",
     "section": "",
-    "text": "Wprowadzenie do kursu\n\n\nMateriały do kursu\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nSee this specific code\n```{r}\n1 + 1\n```\n\n\n[1] 2"
+    "text": "Kurs z Podstawow metodologii i statystyki ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.\nZajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.\nMateriały dostępne na tej stronie będą służyły jako:\n\nprzewodnik po kolejnych tematach zajęć,\nrepozytorium ćwiczeń i przykładów,\nbaza literatury obowiązkowej.\n\nRegularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,138 @@
     "title": "Ćwiczenia - plan i tematy",
     "section": "",
     "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne\n\nwriteLines(hub, “Cwiczenia.qmd”)"
+  },
+  {
+    "objectID": "index.html#plan-ćwiczeń",
+    "href": "index.html#plan-ćwiczeń",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Plan ćwiczeń",
+    "text": "Plan ćwiczeń\nPoniżej znajduje się harmonogram zajęć ćwiczeniowych z przedmiotu Podstawy metodologii i statystyki. Plan obejmuje wszystkie tematy realizowane w semestrze zimowym 2025/2026 wraz z literaturą obowiązkową oraz odnośnikami do treści zajęć.\n\n\n\nTemat zajęć\nLiteratura obowiązkowa\nLekcja\n\n\n\n\nWprowadzenie do pracy z pakietem SPSS. Interfejs programu. Tworzenie bazy danych. Podstawowe operacje na danych. Tworzenie wskaźników zmiennych.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 105–114). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nStatystyki opisowe zmiennych. Rozkład normalny. Testy normalności rozkładu.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 84–111). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 148–156, 197–233). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nAnaliza korelacji. Zasady wyboru współczynnika korelacji. Współczynnik determinacji. Analiza kontyngencji.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 198–221, 149–157). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 340–361, 241–245). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nJednozmiennowa analiza regresji. Równanie regresji. Miary dopasowania modelu, współczynniki regresji.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 224–234). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 378–418). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nParametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby. Test jednorodności wariancji.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 160–184). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 275–309). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nNieparametryczne testy różnic: test U Manna-Whitneya, test Wilcoxona.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 185–192). Wydawnictwo Akademickie Sedno.\n📘 Zobacz lekcję"
+  },
+  {
+    "objectID": "index.html#organizacja-pracy",
+    "href": "index.html#organizacja-pracy",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Organizacja pracy",
+    "text": "Organizacja pracy"
+  },
+  {
+    "objectID": "index.html#materiały-do-kursu",
+    "href": "index.html#materiały-do-kursu",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Materiały do kursu",
+    "text": "Materiały do kursu"
+  },
+  {
+    "objectID": "index.html#kontakt",
+    "href": "index.html#kontakt",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Kontakt",
+    "text": "Kontakt\nJulia idzikowska  jidzikowska@swps.edu.pl\nGodziny konsultacji: czwartek: 11:00 - 11:30 | 17:15 - 17:45\n Strona została stworzona z pomocą Quarto. Więcej informacji na stronie https://quarto.org/docs/websites.\n\n\nSee this specific code\n```{r}\n1 + 1\n```\n\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#tematy-ćwiczeń",
+    "href": "index.html#tematy-ćwiczeń",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Tematy ćwiczeń",
+    "text": "Tematy ćwiczeń\n\n\n1. SPSS\nInterfejs, baza danych, operacje, wskaźniki.\nLiteratura: Bedyńska & Cypryańska (2013) 48–71, 114–130; Józefacka i in. (2023) 105–114.\nPrzejdź →\n\n\n2. Statystyki opisowe\nRozkład normalny, testy normalności.\nLiteratura: 84–111; 148–156, 197–233.\nPrzejdź →\n\n\n3. Korelacje i kontyngencja\nWybór współczynnika, R², chi-kwadrat.\nLiteratura: 198–221, 149–157; 340–361, 241–245.\nPrzejdź →"
+  },
+  {
+    "objectID": "index.html#plan-ćwiczeń-akordeon",
+    "href": "index.html#plan-ćwiczeń-akordeon",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Plan ćwiczeń (akordeon)",
+    "text": "Plan ćwiczeń (akordeon)\n::: details 1. Wprowadzenie do SPSS Treści programowe: interfejs, baza danych, operacje, wskaźniki.\nLiteratura:\n- Bedyńska & Cypryańska (2013), Drogowskaz 1 (s. 48–71, 114–130)\n- Józefacka, Kołek, Arciszewska-Leszczuk (2023), Tom 1 (s. 105–114) :::\n::: details 2. Statystyki opisowe, rozkład normalny, testy normalności Literatura:\n- Bedyńska & Cypryańska (2013), (s. 84–111)\n- Józefacka i in. (2023), (s. 148–156, 197–233) :::\n::: details 3. Korelacje, R², kontyngencja Literatura:\n- Bedyńska & Cypryańska (2013), (s. 198–221, 149–157)\n- Józefacka i in. (2023), (s. 340–361, 241–245) :::"
+  },
+  {
+    "objectID": "index.html#plan-ćwiczeń-1",
+    "href": "index.html#plan-ćwiczeń-1",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Plan ćwiczeń",
+    "text": "Plan ćwiczeń\nPoniżej znajduje się harmonogram zajęć ćwiczeniowych z przedmiotu Podstawy metodologii i statystyki. Plan obejmuje wszystkie tematy realizowane w semestrze zimowym 2025/2026 wraz z literaturą obowiązkową oraz odnośnikami do treści zajęć.\n\n\n\nTemat zajęć\nLiteratura obowiązkowa\nLekcja\n\n\n\n\nWprowadzenie do pracy z pakietem SPSS. Interfejs programu. Tworzenie bazy danych. Podstawowe operacje na danych. Tworzenie wskaźników zmiennych.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 105–114). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nStatystyki opisowe zmiennych. Rozkład normalny. Testy normalności rozkładu.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 84–111). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 148–156, 197–233). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nAnaliza korelacji. Zasady wyboru współczynnika korelacji. Współczynnik determinacji. Analiza kontyngencji.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 198–221, 149–157). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 340–361, 241–245). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nJednozmiennowa analiza regresji. Równanie regresji. Miary dopasowania modelu, współczynniki regresji.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 224–234). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 378–418). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nParametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby. Test jednorodności wariancji.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 160–184). Wydawnictwo Akademickie Sedno.Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 275–309). Wydawnictwo Naukowe PWN.\n📘 Zobacz lekcję\n\n\nNieparametryczne testy różnic: test U Manna-Whitneya, test Wilcoxona.\nBedyńska, S., Cypryańska, M. (red.). (2013). Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego (s. 185–192). Wydawnictwo Akademickie Sedno.\n📘 Zobacz lekcję"
+  },
+  {
+    "objectID": "index.html#wprowadzenie-do-kursu",
+    "href": "index.html#wprowadzenie-do-kursu",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "",
+    "text": "Kurs z Podstawow metodologii i statystyki ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.\nZajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.\nMateriały dostępne na tej stronie będą służyły jako:\n\nprzewodnik po kolejnych tematach zajęć,\nrepozytorium ćwiczeń i przykładów,\nbaza literatury obowiązkowej.\n\nRegularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu."
+  },
+  {
+    "objectID": "Sylabus.html",
+    "href": "Sylabus.html",
+    "title": "Sylabus",
+    "section": "",
+    "text": "Pole\nWartość\n\n\n\n\nWydział\nPsychologii i Prawa w Poznaniu\n\n\nNazwa przedmiotu\nPodstawy metodologii i statystyki\n\n\nRok akademicki\n2024/2025\n\n\nKierunek studiów\npsychologia\n\n\nProfil studiów\nogólnoakademicki\n\n\nPoziom studiów\nstudia I stopnia i jednolite studia magisterskie\n\n\nRodzaj przedmiotu\nobowiązkowy\n\n\nForma studiów\nstacjonarne i niestacjonarne\n\n\nRok studiów\nII\n\n\nSemestr\nzimowy\n\n\nPunkty ECTS\n8 ECTS\n\n\nNakład pracy studenta (h)\n200\n\n\nJęzyk wykładowy\npolski\n\n\nKoordynator\ndr Elwira Brygoła · ebrygola@swps.edu.pl"
+  },
+  {
+    "objectID": "Sylabus.html#informacje-ogólne",
+    "href": "Sylabus.html#informacje-ogólne",
+    "title": "Sylabus",
+    "section": "",
+    "text": "Pole\nWartość\n\n\n\n\nWydział\nPsychologii i Prawa w Poznaniu\n\n\nNazwa przedmiotu\nPodstawy metodologii i statystyki\n\n\nRok akademicki\n2024/2025\n\n\nKierunek studiów\npsychologia\n\n\nProfil studiów\nogólnoakademicki\n\n\nPoziom studiów\nstudia I stopnia i jednolite studia magisterskie\n\n\nRodzaj przedmiotu\nobowiązkowy\n\n\nForma studiów\nstacjonarne i niestacjonarne\n\n\nRok studiów\nII\n\n\nSemestr\nzimowy\n\n\nPunkty ECTS\n8 ECTS\n\n\nNakład pracy studenta (h)\n200\n\n\nJęzyk wykładowy\npolski\n\n\nKoordynator\ndr Elwira Brygoła · ebrygola@swps.edu.pl"
+  },
+  {
+    "objectID": "Sylabus.html#forma-zajęć-i-godziny",
+    "href": "Sylabus.html#forma-zajęć-i-godziny",
+    "title": "Sylabus",
+    "section": "Forma zajęć i godziny",
+    "text": "Forma zajęć i godziny\n\n\n\nForma zajęć\nGodziny — stacjonarne\nGodziny — niestacjonarne\n\n\n\n\nWykład\n30\n24\n\n\nĆwiczenia\n24\n18"
+  },
+  {
+    "objectID": "Sylabus.html#prowadzący",
+    "href": "Sylabus.html#prowadzący",
+    "title": "Sylabus",
+    "section": "Prowadzący",
+    "text": "Prowadzący\n\n\n\nForma zajęć\nProwadzący (stacjonarne)\nProwadzący (niestacjonarne)\n\n\n\n\nWykład\ndr Elwira Brygoła\ndr Elwira Brygoła\n\n\nĆwiczenia\n(wg przydziału grup)\n(wg przydziału grup)"
+  },
+  {
+    "objectID": "Sylabus.html#bilans-punktów-ects",
+    "href": "Sylabus.html#bilans-punktów-ects",
+    "title": "Sylabus",
+    "section": "Bilans punktów ECTS",
+    "text": "Bilans punktów ECTS\n\nGodziny kontaktowe\n\n\n\nForma\nStacjonarne\nNiestacjonarne\n\n\n\n\nWykład\n30\n24\n\n\nĆwiczenia\n24\n18\n\n\nRazem (kontaktowe)\n54\n42\n\n\n\n\n\nSamodzielna praca studenta*\n\n\n\nRodzaj aktywności\nStacjonarne\nNiestacjonarne\n\n\n\n\nCzytanie literatury do zajęć\n146\n158\n\n\nWykonanie zadań domowych\n10\n10\n\n\nPrzygotowanie do kolokwium\n52\n52\n\n\nPrzygotowanie do egzaminu\n52\n58\n\n\nUdział w egzaminie\n2\n2\n\n\nRazem (samodzielna praca)\n262\n280\n\n\n\n\n* Średnia liczba godzin przeznaczonych na zrealizowane rodzaje aktywności (1 godz. = 45 min).\n\nŁączny nakład pracy studenta: 200 h (stacjonarne) · 200 h (niestacjonarne)"
+  },
+  {
+    "objectID": "Sylabus.html#efekty-uczenia-się",
+    "href": "Sylabus.html#efekty-uczenia-się",
+    "title": "Sylabus",
+    "section": "Efekty uczenia się",
+    "text": "Efekty uczenia się\n\n\n\n\n\n\n\n\nKod kierunkowy (JSM)\nPrzedmiotowe efekty uczenia się\nOdniesienie do efektów I stopnia\n\n\n\n\nPSJ_W22\nStudent w stopniu zaawansowanym zna kluczowe pojęcia z zakresu metodologii badań eksperymentalnych i korelacyjnych; ma wiedzę na temat metod i planów badawczych w psychologii; zna kluczowe zagadnienia statystyki opisowej i indukcyjnej; rozumie współzależności między wymaganiami metodologicznymi a etycznymi.\nPS1_W20, PS1_W21\n\n\nPSJ_U09\nStudent potrafi opracować statystycznie wyniki prostych badań eksperymentalnych i korelacyjnych; potrafi posługiwać się wybranym pakietem statystycznym.\nPS1_U2\n\n\nPSJ_K08\nStudent jest świadomy ograniczeń korzystania z empirycznych źródeł wiedzy; jest przekonany o konieczności przestrzegania zasad etycznych w badaniach naukowych.\nPS1_K9"
+  },
+  {
+    "objectID": "Sylabus.html#treści-programowe-wykład",
+    "href": "Sylabus.html#treści-programowe-wykład",
+    "title": "Sylabus",
+    "section": "Treści programowe — wykład",
+    "text": "Treści programowe — wykład\n\n\n\n\n\n\n\n\n\nTreści programowe\nLiteratura obowiązkowa\n\n\n\n\n1\nPsychologia jako nauka empiryczna. Wprowadzenie do metodologii badań psychologicznych.\nJózefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty (s. 9–17). WN PWN.\n\n\n2\nZmienne, ich klasyfikacja i operacjonalizacja. Metody badań.\nBabbie, E. (2003). Badania społeczne w praktyce (s. 139–171). WN PWN.Józefacka i in. (2023), Tom 1 (s. 64–72).\n\n\n3\nStatystyki opisowe zmiennych. Rozkład normalny.\nBedyńska, S., Cypryańska, M. (red.) (2013). Statystyczny drogowskaz 1 (s. 84–111). WAS.Józefacka i in. (2023), Tom 1 (s. 148–156, 197–233).\n\n\n4\nWybór modelu badawczego – paradygmat korelacyjny i regresyjny. Pytania i hipotezy.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 198–221, 149–157, 160–192).Józefacka i in. (2023), Tom 1 (s. 37–63).Shaughnessy, Zechmeister, Zechmeister (2002), Metody badawcze w psychologii (s. 143–187, 223–251, 281–302). GWP.\n\n\n5\nWybór modelu badawczego – paradygmat eksperymentalny i porównawczy. Pytania i hipotezy.\n(jak wyżej – uzupełnij wg programu)\n\n\n6\nPróba i jej dobór.\nJózefacka i in. (2023), Tom 1 (s. 80–85, 132–148).\n\n\n7\nPodstawy wnioskowania statystycznego. Istotność, przedziały ufności.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 136–140).Józefacka i in. (2023), Tom 1 (s. 167–195).Shaughnessy i in. (2002), Metody badawcze… (s. 440–450).\n\n\n8\nWybrane zagadnienia testów statystycznych: założenia, moc, wielkość efektu.\n(uzupełnij tytuły/rozdziały)\n\n\n9\nWybrane zagadnienia etyki badań psychologicznych.\nBrzeziński, J. M., Oleś, P. K. (2021). O psychologii i psychologach… (s. 433–475). WN PWN.Shaughnessy i in. (2002), Metody badawcze… (s. 59–100)."
+  },
+  {
+    "objectID": "Sylabus.html#treści-programowe-ćwiczenia",
+    "href": "Sylabus.html#treści-programowe-ćwiczenia",
+    "title": "Sylabus",
+    "section": "Treści programowe — ćwiczenia",
+    "text": "Treści programowe — ćwiczenia\n\n\n\n\n\n\n\n\n\nTreści programowe\nLiteratura obowiązkowa\n\n\n\n\n1\nWprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.Józefacka, Kołek, Arciszewska-Leszczuk (2023), Tom 1 (s. 105–114). WN PWN.\n\n\n2\nStatystyki opisowe, rozkład normalny, testy normalności.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 84–111).Józefacka i in. (2023), Tom 1 (s. 148–156, 197–233).\n\n\n3\nAnaliza korelacji: dobór współczynnika, współczynnik determinacji; analiza kontyngencji.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 198–221, 149–157).Józefacka i in. (2023), Tom 1 (s. 340–361, 241–245).\n\n\n4\nJednozmiennowa analiza regresji: równanie, dopasowanie modelu, współczynniki.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 224–234).Józefacka i in. (2023), Tom 1 (s. 378–418).\n\n\n5\nTesty parametryczne: t (niezależne, zależne, jedna próba), test jednorodności wariancji.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 160–184).Józefacka i in. (2023), Tom 1 (s. 275–309).\n\n\n6\nTesty nieparametryczne: U Manna-Whitneya, Wilcoxon.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 185–192)."
+  },
+  {
+    "objectID": "Sylabus.html#literatura-uzupełniająca-wykład-i-ćwiczenia",
+    "href": "Sylabus.html#literatura-uzupełniająca-wykład-i-ćwiczenia",
+    "title": "Sylabus",
+    "section": "Literatura uzupełniająca (wykład i ćwiczenia)",
+    "text": "Literatura uzupełniająca (wykład i ćwiczenia)\n\nFerguson, G. A., Takane, Y. (2007). Analiza statystyczna w psychologii i pedagogice. WN PWN.\n\nFrancuz, P., Mackiewicz, R. (2005). Liczby nie wiedzą, skąd pochodzą. Wydawnictwo KUL.\n\nHowell, D. C. (2013). Statistical Methods for Psychology (8 ed.). Wadsworth, Cengage.\n\nKline, R. B. (2020). Becoming a Behavioral Science Researcher (2 ed.). Guilford.\n\nWieczorkowska, G., Wierzbiński, J. (2007). Statystyka: Analiza badań społecznych. Scholar."
+  },
+  {
+    "objectID": "Sylabus.html#warunki-zaliczenia-kryteria-oceniania",
+    "href": "Sylabus.html#warunki-zaliczenia-kryteria-oceniania",
+    "title": "Sylabus",
+    "section": "Warunki zaliczenia / kryteria oceniania",
+    "text": "Warunki zaliczenia / kryteria oceniania\n\n\n\nOcena\nPróg punktowy\n\n\n\n\nBardzo dobra (5,0)\n91–100\n\n\nDobra plus (4,5)\n81–90\n\n\nDobra (4,0)\n71–80\n\n\nDostateczna plus (3,5)\n61–70\n\n\nDostateczna (3,0)\n51–60\n\n\nNiedostateczna (2,0)\n&lt; 51\n\n\n\n\nSkładowe oceny\n\n\n\n\n\n\n\nSposób weryfikacji efektów\nPunktacja*\n\n\n\n\nTestowy egzamin z wykładu\n20–40\n\n\nKolokwium praktyczne z ćwiczeń (SPSS) — po zakończeniu ćwiczeń\n21–40\n\n\nDwa zadania domowe z ćwiczeń (SPSS) — po 10 pkt każde (min. 5 pkt z każdego)\n10–20\n\n\n\n\n* Uzyskanie minimalnej punktacji w danej składowej jest warunkiem zaliczenia.\n\nZasady dodatkowe. Warunkiem przyznania punktów za zadania/kolokwium jest dołączenie raportu SPSS (Output) z właściwymi analizami. Termin przesłania zadania domowego ustala prowadząca danej grupy; za każdy dzień opóźnienia odejmowany jest 1 pkt. Udział w ćwiczeniach jest obowiązkowy: dopuszczalna 1 nieobecność; 2. nieobecność wymaga uzgodnienia sposobu odrobienia; 3 i więcej — skutkują niezaliczeniem przedmiotu."
+  },
+  {
+    "objectID": "Sylabus.html#uwagi-końcowe",
+    "href": "Sylabus.html#uwagi-końcowe",
+    "title": "Sylabus",
+    "section": "Uwagi końcowe",
+    "text": "Uwagi końcowe\nUżyte w dokumencie męskie formy określeń dotyczących osób (np. „student”) odnoszą się do osób każdej identyfikacji płciowej."
   }
 ]

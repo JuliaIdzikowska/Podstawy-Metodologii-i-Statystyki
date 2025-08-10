@@ -5,7 +5,7 @@ project:
 lang: pl
 
 website:
-  title: "Podstawy Metodologii i Statystyki - Ćwiczenia"
+  title: "PODSTAWY METODOLOGII I STATYSTYKI - ĆWICZENIA"
   navbar:
     pinned: true
     logo: swpslogo/uniwersytet-swps_wheel_bt.png
@@ -29,8 +29,8 @@ website:
             text: "6. Nieparametryczne testy różnic: test U Manna- Whitneya, test Wilcoxona"
       - href: Zadania.qmd
         text: Zadania
-      - href: Literatura.qmd
-        text: Literatura
+      - href: Sylabus.qmd
+        text: Sylabus
 
 
 format:
@@ -38,7 +38,7 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
+    css: assets/styles.css
     toc: true
 
 

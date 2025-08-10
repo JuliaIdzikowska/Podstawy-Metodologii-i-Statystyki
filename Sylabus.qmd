@@ -1,0 +1,149 @@
+---
+title: "Sylabus"
+toc: true
+---
+
+
+## Informacje ogólne
+
+| Pole | Wartość |
+|---|---|
+| **Wydział** | Psychologii i Prawa w Poznaniu |
+| **Nazwa przedmiotu** | Podstawy metodologii i statystyki |
+| **Rok akademicki** | 2024/2025 |
+| **Kierunek studiów** | psychologia |
+| **Profil studiów** | ogólnoakademicki |
+| **Poziom studiów** | studia I stopnia i jednolite studia magisterskie |
+| **Rodzaj przedmiotu** | obowiązkowy |
+| **Forma studiów** | stacjonarne i niestacjonarne |
+| **Rok studiów** | II |
+| **Semestr** | zimowy |
+| **Punkty ECTS** | 8 ECTS |
+| **Nakład pracy studenta (h)** | 200 |
+| **Język wykładowy** | polski |
+| **Koordynator** | dr Elwira Brygoła · ebrygola@swps.edu.pl |
+
+---
+
+## Forma zajęć i godziny
+
+| Forma zajęć | Godziny — stacjonarne | Godziny — niestacjonarne |
+|---|---:|---:|
+| Wykład | 30 | 24 |
+| Ćwiczenia | 24 | 18 |
+
+---
+
+## Prowadzący
+
+| Forma zajęć | Prowadzący (stacjonarne) | Prowadzący (niestacjonarne) |
+|---|---|---|
+| Wykład | dr Elwira Brygoła | dr Elwira Brygoła |
+| Ćwiczenia | (wg przydziału grup) | (wg przydziału grup) |
+
+---
+
+## Bilans punktów ECTS
+
+### Godziny kontaktowe
+
+| Forma | Stacjonarne | Niestacjonarne |
+|---|---:|---:|
+| Wykład | 30 | 24 |
+| Ćwiczenia | 24 | 18 |
+| **Razem (kontaktowe)** | **54** | **42** |
+
+### Samodzielna praca studenta*
+
+| Rodzaj aktywności | Stacjonarne | Niestacjonarne |
+|---|---:|---:|
+| Czytanie literatury do zajęć | 146 | 158 |
+| Wykonanie zadań domowych | 10 | 10 |
+| Przygotowanie do kolokwium | 52 | 52 |
+| Przygotowanie do egzaminu | 52 | 58 |
+| Udział w egzaminie | 2 | 2 |
+| **Razem (samodzielna praca)** | **262** | **280** |
+
+> \* Średnia liczba godzin przeznaczonych na zrealizowane rodzaje aktywności (1 godz. = 45 min).
+
+**Łączny nakład pracy studenta:** 200 h (stacjonarne) · 200 h (niestacjonarne)
+
+---
+
+## Efekty uczenia się
+
+| Kod kierunkowy (JSM) | Przedmiotowe efekty uczenia się | Odniesienie do efektów I stopnia |
+|---|---|---|
+| **PSJ_W22** | Student w stopniu zaawansowanym zna kluczowe pojęcia z zakresu metodologii badań eksperymentalnych i korelacyjnych; ma wiedzę na temat metod i planów badawczych w psychologii; zna kluczowe zagadnienia statystyki opisowej i indukcyjnej; rozumie współzależności między wymaganiami metodologicznymi a etycznymi. | PS1_W20, PS1_W21 |
+| **PSJ_U09** | Student potrafi opracować statystycznie wyniki prostych badań eksperymentalnych i korelacyjnych; potrafi posługiwać się wybranym pakietem statystycznym. | PS1_U2 |
+| **PSJ_K08** | Student jest świadomy ograniczeń korzystania z empirycznych źródeł wiedzy; jest przekonany o konieczności przestrzegania zasad etycznych w badaniach naukowych. | PS1_K9 |
+
+---
+
+## Treści programowe — wykład
+
+|  | Treści programowe | Literatura obowiązkowa |
+|---:|---|---|
+| 1 | Psychologia jako nauka empiryczna. Wprowadzenie do metodologii badań psychologicznych. | Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 9–17). WN PWN. |
+| 2 | Zmienne, ich klasyfikacja i operacjonalizacja. Metody badań. | Babbie, E. (2003). *Badania społeczne w praktyce* (s. 139–171). WN PWN.<br>Józefacka i in. (2023), *Tom 1* (s. 64–72). |
+| 3 | Statystyki opisowe zmiennych. Rozkład normalny. | Bedyńska, S., Cypryańska, M. (red.) (2013). *Statystyczny drogowskaz 1* (s. 84–111). WAS.<br>Józefacka i in. (2023), *Tom 1* (s. 148–156, 197–233). |
+| 4 | Wybór modelu badawczego – paradygmat korelacyjny i regresyjny. Pytania i hipotezy. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 198–221, 149–157, 160–192).<br>Józefacka i in. (2023), *Tom 1* (s. 37–63).<br>Shaughnessy, Zechmeister, Zechmeister (2002), *Metody badawcze w psychologii* (s. 143–187, 223–251, 281–302). GWP. |
+| 5 | Wybór modelu badawczego – paradygmat eksperymentalny i porównawczy. Pytania i hipotezy. | (jak wyżej – uzupełnij wg programu) |
+| 6 | Próba i jej dobór. | Józefacka i in. (2023), *Tom 1* (s. 80–85, 132–148). |
+| 7 | Podstawy wnioskowania statystycznego. Istotność, przedziały ufności. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 136–140).<br>Józefacka i in. (2023), *Tom 1* (s. 167–195).<br>Shaughnessy i in. (2002), *Metody badawcze…* (s. 440–450). |
+| 8 | Wybrane zagadnienia testów statystycznych: założenia, moc, wielkość efektu. | (uzupełnij tytuły/rozdziały) |
+| 9 | Wybrane zagadnienia etyki badań psychologicznych. | Brzeziński, J. M., Oleś, P. K. (2021). *O psychologii i psychologach…* (s. 433–475). WN PWN.<br>Shaughnessy i in. (2002), *Metody badawcze…* (s. 59–100). |
+
+---
+
+## Treści programowe — ćwiczenia
+
+|  | Treści programowe | Literatura obowiązkowa |
+|---:|---|---|
+| 1 | Wprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.<br>Józefacka, Kołek, Arciszewska-Leszczuk (2023), *Tom 1* (s. 105–114). WN PWN. |
+| 2 | Statystyki opisowe, rozkład normalny, testy normalności. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 84–111).<br>Józefacka i in. (2023), *Tom 1* (s. 148–156, 197–233). |
+| 3 | Analiza korelacji: dobór współczynnika, współczynnik determinacji; analiza kontyngencji. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 198–221, 149–157).<br>Józefacka i in. (2023), *Tom 1* (s. 340–361, 241–245). |
+| 4 | Jednozmiennowa analiza regresji: równanie, dopasowanie modelu, współczynniki. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 224–234).<br>Józefacka i in. (2023), *Tom 1* (s. 378–418). |
+| 5 | Testy parametryczne: *t* (niezależne, zależne, jedna próba), test jednorodności wariancji. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 160–184).<br>Józefacka i in. (2023), *Tom 1* (s. 275–309). |
+| 6 | Testy nieparametryczne: U Manna-Whitneya, Wilcoxon. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 185–192). |
+
+---
+
+## Literatura uzupełniająca (wykład i ćwiczenia)
+
+- Ferguson, G. A., Takane, Y. (2007). *Analiza statystyczna w psychologii i pedagogice*. WN PWN.  
+- Francuz, P., Mackiewicz, R. (2005). *Liczby nie wiedzą, skąd pochodzą*. Wydawnictwo KUL.  
+- Howell, D. C. (2013). *Statistical Methods for Psychology* (8 ed.). Wadsworth, Cengage.  
+- Kline, R. B. (2020). *Becoming a Behavioral Science Researcher* (2 ed.). Guilford.  
+- Wieczorkowska, G., Wierzbiński, J. (2007). *Statystyka: Analiza badań społecznych*. Scholar.
+
+---
+
+## Warunki zaliczenia / kryteria oceniania
+
+| Ocena | Próg punktowy |
+|---|---:|
+| Bardzo dobra (5,0) | 91–100 |
+| Dobra plus (4,5) | 81–90 |
+| Dobra (4,0) | 71–80 |
+| Dostateczna plus (3,5) | 61–70 |
+| Dostateczna (3,0) | 51–60 |
+| Niedostateczna (2,0) | \< 51 |
+
+### Składowe oceny
+
+| Sposób weryfikacji efektów | Punktacja* |
+|---|---:|
+| Testowy egzamin z wykładu | 20–40 |
+| Kolokwium praktyczne z ćwiczeń (SPSS) — po zakończeniu ćwiczeń | 21–40 |
+| Dwa zadania domowe z ćwiczeń (SPSS) — po 10 pkt każde (min. 5 pkt z każdego) | 10–20 |
+
+> \* Uzyskanie minimalnej punktacji w danej składowej jest warunkiem zaliczenia.
+
+**Zasady dodatkowe.** Warunkiem przyznania punktów za zadania/kolokwium jest dołączenie raportu SPSS (Output) z właściwymi analizami. Termin przesłania zadania domowego ustala prowadząca danej grupy; za każdy dzień opóźnienia odejmowany jest 1 pkt. Udział w ćwiczeniach jest obowiązkowy: dopuszczalna 1 nieobecność; 2. nieobecność wymaga uzgodnienia sposobu odrobienia; 3 i więcej — skutkują niezaliczeniem przedmiotu.
+
+---
+
+## Uwagi końcowe
+
+Użyte w dokumencie męskie formy określeń dotyczących osób (np. „student”) odnoszą się do osób każdej identyfikacji płciowej.
