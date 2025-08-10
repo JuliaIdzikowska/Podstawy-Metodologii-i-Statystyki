@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Podstawy metodologii i statystyki",
     "section": "",
-    "text": "Kurs z Podstaw metodologii i statystyki ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.\nZajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.\nMateriały dostępne na tej stronie będą służyły jako:\n\nprzewodnik po kolejnych tematach zajęć,\nrepozytorium ćwiczeń i przykładów,\nbaza literatury obowiązkowej.\n\nRegularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu."
+    "text": "Kurs z Podstaw metodologii i statystyki ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.\nZajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.\nMateriały dostępne na tej stronie będą służyły jako:\n\nprzewodnik po kolejnych tematach zajęć,\nrepozytorium ćwiczeń, zadań i przykładów,\ncentrum organizacyjne kursu — wszystkie ważne informacje i materiały w jednym miesjcu.\n\n\n\n\n\n\n\nRegularne korzystanie z materiałów pozwoli uporządkować i utrwalić zdobytą wiedzę."
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "index.html#kontakt",
     "title": "Podstawy metodologii i statystyki",
     "section": "Kontakt",
-    "text": "Kontakt\nJulia idzikowska  jidzikowska@swps.edu.pl\nGodziny konsultacji: czwartek: 11:00 - 11:30 | 17:15 - 17:45\n Strona została stworzona z pomocą Quarto. Więcej informacji na stronie https://quarto.org/docs/websites.\n\n\nSee this specific code\n```{r}\n1 + 1\n```\n\n\n[1] 2"
+    "text": "Kontakt\nJulia idzikowska  jidzikowska@swps.edu.pl  Godziny konsultacji: środy: 11:00 - 11:30 | 17:15 - 17:45 | (Ku A.318)\nDaty: 29.10 | 12.11 | 19.11 | 26.11 | 03.12 | 10.12\nSą to dni naszych zajęć. Obie grupy mają zajęcia w ten sam dzień."
   },
   {
     "objectID": "index.html#tematy-ćwiczeń",
@@ -81,7 +81,7 @@
     "href": "index.html#wprowadzenie-do-kursu",
     "title": "Podstawy metodologii i statystyki",
     "section": "",
-    "text": "Kurs z Podstaw metodologii i statystyki ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.\nZajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.\nMateriały dostępne na tej stronie będą służyły jako:\n\nprzewodnik po kolejnych tematach zajęć,\nrepozytorium ćwiczeń i przykładów,\nbaza literatury obowiązkowej.\n\nRegularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu."
+    "text": "Kurs z Podstaw metodologii i statystyki ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.\nZajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.\nMateriały dostępne na tej stronie będą służyły jako:\n\nprzewodnik po kolejnych tematach zajęć,\nrepozytorium ćwiczeń, zadań i przykładów,\ncentrum organizacyjne kursu — wszystkie ważne informacje i materiały w jednym miesjcu.\n\n\n\n\n\n\n\nRegularne korzystanie z materiałów pozwoli uporządkować i utrwalić zdobytą wiedzę."
   },
   {
     "objectID": "Sylabus.html",
@@ -165,20 +165,34 @@
     "href": "index.html#cele-kursu",
     "title": "Podstawy metodologii i statystyki",
     "section": "Cele kursu",
-    "text": "Cele kursu\nCelem części ćwiczeniowej kursu Podstawy metodologii i statystyki jest rozwój praktycznych umiejętności analizy danych w badaniach psychologicznych, z wykorzystaniem pakietu SPSS.\nW trakcie zajęć:\n\nnauczysz się tworzyć i przygotowywać bazy danych w SPSS,\nopanujesz obliczanie i interpretację statystyk opisowych,\nbędziesz potrafił wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,\nzdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu,\nrozwiniesz świadomość metodologiczną i staniesz się początkującym samodzielnym badaczem."
+    "text": "Cele kursu\nCelem części ćwiczeniowej kursu Podstawy metodologii i statystyki jest rozwój praktycznych umiejętności analizy danych w badaniach psychologicznych, z wykorzystaniem pakietu SPSS.\nW trakcie zajęć:\n\nnauczysz się tworzyć i przygotowywać bazy danych w SPSS,\nopanujesz obliczanie i interpretację statystyk opisowych,\nbędziesz wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,\nzdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu."
   },
   {
     "objectID": "index.html#dodatkowe-materiały-pomocne-w-procesie-nauki",
     "href": "index.html#dodatkowe-materiały-pomocne-w-procesie-nauki",
     "title": "Podstawy metodologii i statystyki",
     "section": "Dodatkowe materiały pomocne w procesie nauki",
-    "text": "Dodatkowe materiały pomocne w procesie nauki"
+    "text": "Dodatkowe materiały pomocne w procesie nauki\n\n🎥 YouTube - kursy SPSS (PL/EN)\n\n🧠 Khan Academy (PL/EN)\n\n📊 Pogotowie Statystyczne - słownik i tutoriale PDF do pobrania\n📝 APA Style – przewodnik online\n🤖 ChatGPT - może wesprzeć w:\n\nwyjaśnianiu trudnych pojęć w prosty sposób,\ngenerowaniu przykładów i ćwiczeń,\nprzygotowywaniu pytań do powtórek.\n\n\n\n⚠️ Pamiętaj: ChatGPT to super narzędzie i może nam pomóc albo się rozwijać albo zwijać, wykorzystuj mądrze :)"
   },
   {
     "objectID": "index.html#zasady-współpracy-i-komunikacji",
     "href": "index.html#zasady-współpracy-i-komunikacji",
     "title": "Podstawy metodologii i statystyki",
     "section": "Zasady współpracy i komunikacji",
-    "text": "Zasady współpracy i komunikacji"
+    "text": "Zasady współpracy i komunikacji\n\nKontakt mailowy: w sprawach organizacyjnych i merytorycznych pisz na adres uczelniany — odpowiadam zazwyczaj w ciągu 2 dni roboczych.\n\nPytania na zajęciach: możesz zadawać pytania w każdej chwili — szczególnie, jeśli coś jest niejasne w trakcie ćwiczeń.\n\nNieobecności: w przypadku planowanej nieobecności napisz wcześniej. Postaramy się znaleźć alternatywny termin lub sposób odrobienia materiału.\n\nFeedback: Twoje uwagi na temat zajęć są mile widziane — pomogą ulepszyć kurs i dopasować go do potrzeb grupy.\n\nCo jeszcze? Dajcie znać!"
+  },
+  {
+    "objectID": "index.html#dodatkowe-materiały",
+    "href": "index.html#dodatkowe-materiały",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Dodatkowe materiały",
+    "text": "Dodatkowe materiały\nTen kurs został zaprojektowany jako pełnowymiarowe, kompleksowe wprowadzenie do metodologii i statystyki w psychologii. Oznacza to, że wszystkie niezbędne treści i umiejętności potrzebne do zaliczenia zajęć są udostępnione tutaj. Jeśli jednak poziom niedosytu lub niepewności osiągnie poziom istotny, poniżej kilka pomysłów na dodatkowe źródła, które mogą okazać się pomocne:\n\n🎥 YouTube - kursy SPSS (PL/EN)\n\n🧠 Khan Academy (PL/EN)\n\n📊 Pogotowie Statystyczne - słownik i tutoriale PDF do pobrania\n📝 APA Style – przewodnik online\n🤖 ChatGPT - może wesprzeć w:\n\nwyjaśnianiu trudnych pojęć w prosty sposób,\ngenerowaniu przykładów i ćwiczeń,\nprzygotowywaniu pytań do powtórek.\n\n\n\n⚠️ Pamiętaj: ChatGPT to elastyczne narzędzie i może nam pomóc albo się rozwijać albo zwijać."
+  },
+  {
+    "objectID": "index.html#kalendarz",
+    "href": "index.html#kalendarz",
+    "title": "Podstawy metodologii i statystyki",
+    "section": "Kalendarz",
+    "text": "Kalendarz\n\n\n\n\n\n\nHarmonogram zajęć i konsultacji\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\nGrupa 1 (środa)\nGrupa 2 (środa)\nKonsultacje (Ku A.318)\nUwagi\n\n\n\n\n15.10\n11:45–14:15 (pierwsze zajęcia)\n—\n—\n\n\n\n22.10\n—\n14:45–17:15 (pierwsze zajęcia)\n—\n\n\n\n29.10\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n12.11\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\nTermin oddania Zadania 1\n\n\n19.11\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n26.11\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n03.12\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\nTermin oddania Zadania 2\n\n\n10.12\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n17.12\n11:45–14:15\n09:00–11:30\n—\nKolokwium (SPSS)\n\n\n\n\nObie grupy realizują zajęcia w te same dni, w różnych godzinach (poza pierwszymi zajęciami).\nKonsultacje odbywają się w sali Ku A.318.\n\n\n\n Strona została stworzona z pomocą Quarto. Więcej informacji na stronie https://quarto.org/docs/websites.\n\n\nSee this specific code\n```{r}\n1 + 1\n```\n\n\n[1] 2"
   }
 ]

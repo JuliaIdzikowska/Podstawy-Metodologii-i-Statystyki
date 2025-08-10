@@ -4761,6 +4761,13 @@ flex: 1;
 .navbar-brand img {
 height: 250px !important; 
 }
+.rules-box {
+background-color: #f9f9f9; 
+border-radius: 8px;
+padding: 1rem 1.5rem;
+font-size: 0.95rem;
+line-height: 1.5;
+}
 </style>
 </head>
 
@@ -4820,10 +4827,11 @@ height: 250px !important;
   <li><a href="#plan-ćwiczeń" id="toc-plan-ćwiczeń" class="nav-link" data-scroll-target="#plan-ćwiczeń">Plan ćwiczeń</a></li>
   <li><a href="#organizacja-pracy" id="toc-organizacja-pracy" class="nav-link" data-scroll-target="#organizacja-pracy">Organizacja pracy</a>
   <ul class="collapse">
-  <li><a href="#dodatkowe-materiały-pomocne-w-procesie-nauki" id="toc-dodatkowe-materiały-pomocne-w-procesie-nauki" class="nav-link" data-scroll-target="#dodatkowe-materiały-pomocne-w-procesie-nauki">Dodatkowe materiały pomocne w procesie nauki</a></li>
+  <li><a href="#dodatkowe-materiały" id="toc-dodatkowe-materiały" class="nav-link" data-scroll-target="#dodatkowe-materiały">Dodatkowe materiały</a></li>
   <li><a href="#zasady-współpracy-i-komunikacji" id="toc-zasady-współpracy-i-komunikacji" class="nav-link" data-scroll-target="#zasady-współpracy-i-komunikacji">Zasady współpracy i komunikacji</a></li>
-  <li><a href="#kontakt" id="toc-kontakt" class="nav-link" data-scroll-target="#kontakt">Kontakt</a></li>
   </ul></li>
+  <li><a href="#kontakt" id="toc-kontakt" class="nav-link" data-scroll-target="#kontakt">Kontakt</a></li>
+  <li><a href="#kalendarz" id="toc-kalendarz" class="nav-link" data-scroll-target="#kalendarz">Kalendarz</a></li>
   </ul>
 </nav>
 </nav>
@@ -4879,10 +4887,19 @@ height: 250px !important;
 <p>Materiały dostępne na tej stronie będą służyły jako:</p>
 <ul>
 <li><p>przewodnik po kolejnych tematach zajęć,</p></li>
-<li><p>repozytorium ćwiczeń i przykładów,</p></li>
-<li><p>baza literatury obowiązkowej.</p></li>
+<li><p>repozytorium ćwiczeń, zadań i przykładów,</p></li>
+<li><p>centrum organizacyjne kursu — wszystkie ważne informacje i materiały w jednym miesjcu.</p></li>
 </ul>
-<p>Regularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu.</p>
+<div class="callout callout-style-simple callout-tip no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Regularne korzystanie z materiałów pozwoli <strong>uporządkować i utrwalić</strong> zdobytą wiedzę.</p>
+</div>
+</div>
+</div>
 </section>
 <section id="cele-kursu" class="level2">
 <h2 class="anchored" data-anchor-id="cele-kursu">Cele kursu</h2>
@@ -4891,9 +4908,8 @@ height: 250px !important;
 <ul>
 <li><p>nauczysz się tworzyć i przygotowywać bazy danych w SPSS,</p></li>
 <li><p>opanujesz obliczanie i interpretację statystyk opisowych,</p></li>
-<li><p>będziesz potrafił wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,</p></li>
-<li><p>zdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu,</p></li>
-<li><p>rozwiniesz świadomość metodologiczną i staniesz się początkującym samodzielnym badaczem.</p></li>
+<li><p>będziesz wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,</p></li>
+<li><p>zdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu.</p></li>
 </ul>
 </section>
 <section id="plan-ćwiczeń" class="level2">
@@ -4955,25 +4971,23 @@ Organizacja pracy
 <div class="callout-body-container callout-body">
 <p>Podczas ćwiczeń będziemy pracować w oparciu o:</p>
 <ul>
-<li><strong>Praktyczne zadania w SPSS</strong> – każdy temat zajęć zakończymy wykonaniem krótkiego ćwiczenia, które utrwali poznane metody.<br>
-</li>
-<li><strong>Zadania domowe</strong> – dwa projekty obejmujące analizę i interpretację danych w SPSS</li>
+<li><strong>Praktyczne zadania w SPSS</strong> – każdy temat zajęć realizujemy przy użyciu SPSS.</li>
+<li><strong>Zadania domowe</strong> – dwa projekty obejmujące analizę i interpretację danych w SPSS.</li>
 <li><strong>Kolokwium praktyczne</strong> – pod koniec semestru sprawdzimy umiejętności analizy danych i interpretacji wyników.</li>
 <li><strong>Obecność na zajęciach</strong> – obowiązkowa; dopuszczalna jest jedna nieobecność, dodatkowe wymagają odrobienia z inną grupą.</li>
 </ul>
-<p>Materiały na tej stronie pomogą Ci przygotować się do bieżących zajęć i zaliczenia końcowego.</p>
 </div>
 </div>
-<p><strong>Materiały z ćwiczeń</strong> są opublikowane w odpowiednich sekcjach tematycznych w zakładce <strong><a href="./Cwiczenia.html">Ćwiczenia</a></strong>.Możesz też tam tarfić po kliknięciu w link 📘 <em>Zobacz lekcję</em> w tabeli powyżej przejdziesz bezpośrednio do treści danego tematu.</p>
+<p><strong>Materiały z ćwiczeń</strong> są opublikowane w odpowiednich sekcjach tematycznych w zakładce <strong><a href="./Cwiczenia.html">Ćwiczenia</a></strong>. Możesz też tam tarfić po kliknięciu w link 📘 <em>Zobacz lekcję</em> w tabeli powyżej, wówczas przejdziesz bezpośrednio do treści danego tematu.</p>
 <blockquote class="blockquote">
-<p>💡 <strong>Wskazówka:</strong> Polecam po każdych zajęciach wrócić do tematu i powtórzyć materiał. Polecam też nie wyprzedzać materiału i podążać zgodnie z Planem i grupą. I polecam sięgać po literaturę :)</p>
+<p>💡 <strong>Wskazówka:</strong> Polecam po każdych zajęciach wrócić do tematu i powtórzyć materiał. Polecam też nie wyprzedzać i podążać zgodnie z Planem i grupą. I polecam sięgać po literaturę :)</p>
 </blockquote>
-<p><strong>Zadania domowe</strong> znajdziesz w osobnej zakładce <strong><a href="./Zadania.html">Zadania domowe</a></strong> w menu głównym.<br>
+<p><strong>Zadania domowe</strong> znajdziesz w osobnej zakładce <strong><a href="./Zadania.html">Zadania</a></strong> w menu głównym.<br>
 Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do pobrania.</p>
 <blockquote class="blockquote">
-<p>🧠 <strong>Poziom mistrza</strong> – dodatkowe wyzwania w <strong>Zadaniach</strong> pozwolą Ci utrwalić materiał i przećwiczyć nowe umiejętności. Warto!</p>
+<p>🧠 <strong>Poziom mistrza</strong> – dodatkowe wyzwania w zadaniach pozwolą Ci utrwalić materiał i przećwiczyć nowe umiejętności. Warto!</p>
 </blockquote>
-<p>Zaglądaj tutaj regularnie, ponieważ strona będzie aktualizowana w trakcie semestru.</p>
+<p>Zaglądaj tutaj regularnie, ponieważ zakładka <a href="./Zadania.html">zadania</a> będzie <strong>aktualizowana w trakcie semestru</strong>.</p>
 <blockquote class="blockquote">
 <p>💡 <strong>Wskazówka:</strong> Jeśli chcesz szybko wrócić do tej strony, dodaj ją do zakładek w swojej przeglądarce.</p>
 </blockquote>
@@ -4983,7 +4997,7 @@ Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do po
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-⚠️ Ważne zasady zaliczenia
+Ważne zasady zaliczenia
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -5000,16 +5014,151 @@ Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do po
 </ul>
 </div>
 </div>
-<section id="dodatkowe-materiały-pomocne-w-procesie-nauki" class="level2">
-<h2 class="anchored" data-anchor-id="dodatkowe-materiały-pomocne-w-procesie-nauki">Dodatkowe materiały pomocne w procesie nauki</h2>
+<section id="dodatkowe-materiały" class="level2">
+<h2 class="anchored" data-anchor-id="dodatkowe-materiały">Dodatkowe materiały</h2>
+<p>Ten kurs został zaprojektowany jako <strong>pełnowymiarowe, kompleksowe wprowadzenie do metodologii i statystyki w psychologii</strong>. Oznacza to, że wszystkie niezbędne treści i umiejętności potrzebne do zaliczenia zajęć są udostępnione tutaj.<br><br> Jeśli jednak poziom niedosytu lub niepewności osiągnie poziom istotny, poniżej kilka pomysłów na dodatkowe źródła, które mogą okazać się pomocne:</p>
+<ul>
+<li><a href="https://www.youtube.com/results?search_query=spss+tutorial">🎥 YouTube - kursy SPSS (PL/EN)</a><br>
+</li>
+<li><a href="https://pl.khanacademy.org/search?search_again=1&amp;page_search_query=metodologia+i+statystyka">🧠 Khan Academy (PL/EN)</a><br>
+</li>
+<li>📊 Pogotowie Statystyczne - <a href="https://pogotowiestatystyczne.pl/slownik/">słownik</a> <a href="https://pogotowiestatystyczne.pl/tutoriale-tekstowe/">i tutoriale PDF do pobrania</a></li>
+<li><a href="https://apastyle.apa.org/">📝 APA Style – przewodnik online</a></li>
+<li><a href="https://chat.openai.com">🤖 ChatGPT</a> - może wesprzeć w:
+<ul>
+<li>wyjaśnianiu trudnych pojęć w prosty sposób,</li>
+<li>generowaniu przykładów i ćwiczeń,</li>
+<li>przygotowywaniu pytań do powtórek.</li>
+</ul></li>
+</ul>
+<blockquote class="blockquote">
+<p>⚠️ <strong>Pamiętaj:</strong> ChatGPT to elastyczne narzędzie i może nam pomóc albo się rozwijać albo zwijać.</p>
+</blockquote>
 </section>
 <section id="zasady-współpracy-i-komunikacji" class="level2">
 <h2 class="anchored" data-anchor-id="zasady-współpracy-i-komunikacji">Zasady współpracy i komunikacji</h2>
+<ul>
+<li><strong>Kontakt mailowy:</strong> w sprawach organizacyjnych i merytorycznych pisz na adres uczelniany — odpowiadam zazwyczaj w ciągu 2 dni roboczych.<br>
+</li>
+<li><strong>Pytania na zajęciach:</strong> możesz zadawać pytania w każdej chwili — szczególnie, jeśli coś jest niejasne w trakcie ćwiczeń.<br>
+</li>
+<li><strong>Nieobecności:</strong> w przypadku planowanej nieobecności napisz wcześniej. Postaramy się znaleźć alternatywny termin lub sposób odrobienia materiału.<br>
+</li>
+<li><strong>Feedback:</strong> Twoje uwagi na temat zajęć są mile widziane — pomogą ulepszyć kurs i dopasować go do potrzeb grupy.<br>
+</li>
+<li><strong>Co jeszcze?</strong> Dajcie znać!</li>
+</ul>
 </section>
-<section id="kontakt" class="level2">
-<h2 class="anchored" data-anchor-id="kontakt">Kontakt</h2>
-<p>Julia idzikowska <br> jidzikowska@swps.edu.pl</p>
-<p>Godziny konsultacji: czwartek: 11:00 - 11:30 | 17:15 - 17:45</p>
+</section>
+<section id="kontakt" class="level1">
+<h1>Kontakt</h1>
+<div class="rules-box">
+<p>Julia idzikowska <br> jidzikowska@swps.edu.pl <br><br> <strong>Godziny konsultacji:</strong> środy: 11:00 - 11:30 | 17:15 - 17:45 | (<strong>Ku A.318</strong>)</p>
+<p><strong>Daty:</strong> 29.10 | 12.11 | 19.11 | 26.11 | 03.12 | 10.12</p>
+<p>Są to dni naszych zajęć. Obie grupy mają zajęcia w ten sam dzień.</p>
+</div>
+</section>
+<section id="kalendarz" class="level1">
+<h1>Kalendarz</h1>
+<div class="callout callout-style-simple callout-note no-icon callout-titled" style="font-size:0.45em;">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Harmonogram zajęć i konsultacji
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 8%">
+<col style="width: 27%">
+<col style="width: 26%">
+<col style="width: 31%">
+<col style="width: 6%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Data</th>
+<th>Grupa 1 (środa)</th>
+<th>Grupa 2 (środa)</th>
+<th>Konsultacje (Ku A.318)</th>
+<th>Uwagi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>15.10</td>
+<td>11:45–14:15 <em>(pierwsze zajęcia)</em></td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>22.10</td>
+<td>—</td>
+<td>14:45–17:15 <em>(pierwsze zajęcia)</em></td>
+<td>—</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>29.10</td>
+<td>11:45–14:15</td>
+<td>14:45–17:15</td>
+<td>11:00–11:30 | 17:15–17:45</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>12.11</td>
+<td>11:45–14:15</td>
+<td>14:45–17:15</td>
+<td>11:00–11:30 | 17:15–17:45</td>
+<td><strong>Termin oddania Zadania 1</strong></td>
+</tr>
+<tr class="odd">
+<td>19.11</td>
+<td>11:45–14:15</td>
+<td>14:45–17:15</td>
+<td>11:00–11:30 | 17:15–17:45</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>26.11</td>
+<td>11:45–14:15</td>
+<td>14:45–17:15</td>
+<td>11:00–11:30 | 17:15–17:45</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>03.12</td>
+<td>11:45–14:15</td>
+<td>14:45–17:15</td>
+<td>11:00–11:30 | 17:15–17:45</td>
+<td><strong>Termin oddania Zadania 2</strong></td>
+</tr>
+<tr class="even">
+<td>10.12</td>
+<td>11:45–14:15</td>
+<td>14:45–17:15</td>
+<td>11:00–11:30 | 17:15–17:45</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>17.12</td>
+<td>11:45–14:15</td>
+<td>09:00–11:30</td>
+<td>—</td>
+<td><strong>Kolokwium (SPSS)</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote class="blockquote">
+<p><strong>Obie grupy</strong> realizują zajęcia w te same dni, w różnych godzinach (poza pierwszymi zajęciami).<br>
+Konsultacje odbywają się w sali <strong>Ku A.318</strong>.</p>
+</blockquote>
+</div>
+</div>
 <p><br><br> Strona została stworzona z pomocą Quarto. Więcej informacji na stronie <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
 <div class="cell">
 <details class="code-fold">
@@ -5024,7 +5173,6 @@ Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do po
 </div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

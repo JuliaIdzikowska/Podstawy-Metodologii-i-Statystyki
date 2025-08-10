@@ -98,11 +98,14 @@ Materiały dostępne na tej stronie będą służyły jako:
 
 - przewodnik po kolejnych tematach zajęć,
 
-- repozytorium ćwiczeń i przykładów,
+- repozytorium ćwiczeń, zadań i przykładów,
 
-- baza literatury obowiązkowej.
+- centrum organizacyjne kursu — wszystkie ważne informacje i materiały w jednym miesjcu.
 
-Regularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu.
+::: {.callout-tip appearance="minimal"}
+Regularne korzystanie z materiałów pozwoli **uporządkować i utrwalić** zdobytą wiedzę.
+:::
+
 
 ## Cele kursu 
 
@@ -114,11 +117,9 @@ W trakcie zajęć:
 
 - opanujesz obliczanie i interpretację statystyk opisowych,
 
-- będziesz potrafił wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,
+- będziesz wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,
 
-- zdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu,
-
-- rozwiniesz świadomość metodologiczną i staniesz się początkującym samodzielnym badaczem. 
+- zdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu.
 
 
 
@@ -147,30 +148,29 @@ Poniżej znajduje się harmonogram zajęć ćwiczeniowych z przedmiotu Podstawy 
 
 Podczas ćwiczeń będziemy pracować w oparciu o:  
 
-- **Praktyczne zadania w SPSS** – każdy temat zajęć zakończymy wykonaniem krótkiego ćwiczenia, które utrwali poznane metody.  
-- **Zadania domowe** – dwa projekty obejmujące analizę i interpretację danych w SPSS
+- **Praktyczne zadania w SPSS** – każdy temat zajęć realizujemy przy użyciu SPSS.
+- **Zadania domowe** – dwa projekty obejmujące analizę i interpretację danych w SPSS.
 - **Kolokwium praktyczne** – pod koniec semestru sprawdzimy umiejętności analizy danych i interpretacji wyników.
 - **Obecność na zajęciach** – obowiązkowa; dopuszczalna jest jedna nieobecność, dodatkowe wymagają odrobienia z inną grupą.  
 
-Materiały na tej stronie pomogą Ci przygotować się do bieżących zajęć i zaliczenia końcowego.
 :::
 
-**Materiały z ćwiczeń** są opublikowane w odpowiednich sekcjach tematycznych w zakładce **[Ćwiczenia](Cwiczenia.qmd)**.Możesz też tam tarfić po kliknięciu w link 📘 *Zobacz lekcję* w tabeli powyżej przejdziesz bezpośrednio do treści danego tematu.
+**Materiały z ćwiczeń** są opublikowane w odpowiednich sekcjach tematycznych w zakładce **[Ćwiczenia](Cwiczenia.qmd)**. Możesz też tam tarfić po kliknięciu w link 📘 *Zobacz lekcję* w tabeli powyżej, wówczas przejdziesz bezpośrednio do treści danego tematu.
 
-> 💡 **Wskazówka:** Polecam po każdych zajęciach wrócić do tematu i powtórzyć materiał. Polecam też nie wyprzedzać materiału i podążać zgodnie z Planem i grupą. I polecam sięgać po literaturę :)
+> 💡 **Wskazówka:** Polecam po każdych zajęciach wrócić do tematu i powtórzyć materiał. Polecam też nie wyprzedzać i podążać zgodnie z Planem i grupą. I polecam sięgać po literaturę :)
 
-**Zadania domowe** znajdziesz w osobnej zakładce **[Zadania domowe](Zadania.qmd)** w menu głównym.  
+**Zadania domowe** znajdziesz w osobnej zakładce **[Zadania](Zadania.qmd)** w menu głównym.  
 Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do pobrania.  
 
-> 🧠 **Poziom mistrza** – dodatkowe wyzwania w **Zadaniach** pozwolą Ci utrwalić materiał i przećwiczyć nowe umiejętności. Warto!
+> 🧠 **Poziom mistrza** – dodatkowe wyzwania w zadaniach pozwolą Ci utrwalić materiał i przećwiczyć nowe umiejętności. Warto!
 
-Zaglądaj tutaj regularnie, ponieważ strona będzie aktualizowana w trakcie semestru. 
+Zaglądaj tutaj regularnie, ponieważ zakładka [zadania](Zadania.qmd) będzie **aktualizowana w trakcie semestru**. 
 
 > 💡 **Wskazówka:** Jeśli chcesz szybko wrócić do tej strony, dodaj ją do zakładek w swojej przeglądarce.
 
 
 ::: {.callout-warning}
-## ⚠️ Ważne zasady zaliczenia
+## Ważne zasady zaliczenia
 
 - Aby zaliczyć ćwiczenia, należy zdobyć **minimum 51 punktów**.  
 - Za każde z dwóch zadań domowych trzeba uzyskać co najmniej **5 punktów**.  
@@ -181,25 +181,64 @@ Zaglądaj tutaj regularnie, ponieważ strona będzie aktualizowana w trakcie sem
 
 
 
-## Dodatkowe materiały pomocne w procesie nauki 
+## Dodatkowe materiały 
 
+Ten kurs został zaprojektowany jako **pełnowymiarowe, kompleksowe wprowadzenie do metodologii i statystyki w psychologii**. Oznacza to, że wszystkie niezbędne treści i umiejętności potrzebne do zaliczenia zajęć są udostępnione tutaj.<br><br>
+Jeśli jednak poziom niedosytu lub niepewności osiągnie poziom istotny, poniżej kilka pomysłów na dodatkowe źródła, które mogą okazać się pomocne:
 
+- [🎥 YouTube - kursy SPSS (PL/EN)](https://www.youtube.com/results?search_query=spss+tutorial)  
+- [🧠 Khan Academy (PL/EN)](https://pl.khanacademy.org/search?search_again=1&page_search_query=metodologia+i+statystyka)  
+- 📊 Pogotowie Statystyczne - [słownik](https://pogotowiestatystyczne.pl/slownik/) [i tutoriale PDF do pobrania](https://pogotowiestatystyczne.pl/tutoriale-tekstowe/) 
+- [📝 APA Style – przewodnik online](https://apastyle.apa.org/) 
+- [🤖 ChatGPT](https://chat.openai.com) - może wesprzeć w:
+    - wyjaśnianiu trudnych pojęć w prosty sposób, 
+    - generowaniu przykładów i ćwiczeń,
+    - przygotowywaniu pytań do powtórek.
+
+> ⚠️ **Pamiętaj:** ChatGPT to elastyczne narzędzie i może nam pomóc albo się rozwijać albo zwijać. 
 
 ## Zasady współpracy i komunikacji 
 
 
+- **Kontakt mailowy:** w sprawach organizacyjnych i merytorycznych pisz na adres uczelniany — odpowiadam zazwyczaj w ciągu 2 dni roboczych.  
+- **Pytania na zajęciach:** możesz zadawać pytania w każdej chwili — szczególnie, jeśli coś jest niejasne w trakcie ćwiczeń.  
+- **Nieobecności:** w przypadku planowanej nieobecności napisz wcześniej. Postaramy się znaleźć alternatywny termin lub sposób odrobienia materiału.  
+- **Feedback:** Twoje uwagi na temat zajęć są mile widziane — pomogą ulepszyć kurs i dopasować go do potrzeb grupy.  
+- **Co jeszcze?** Dajcie znać! 
 
-## Kontakt
 
+# Kontakt
+
+<div class="rules-box">
 Julia idzikowska <br>
-jidzikowska@swps.edu.pl
+jidzikowska@swps.edu.pl <br><br>
+**Godziny konsultacji:** środy: 11:00 - 11:30 | 17:15 - 17:45 | (**Ku A.318**)
 
-Godziny konsultacji: 
-czwartek: 11:00 - 11:30 | 17:15 - 17:45
+**Daty:** 29.10 | 12.11 | 19.11 | 26.11 | 03.12 | 10.12 
 
+Są to dni naszych zajęć. Obie grupy mają zajęcia w ten sam dzień. 
+</div>
 
+# Kalendarz
 
+::: {.callout-note appearance="minimal" icon="calendar" style="font-size:0.45em;"}
+## Harmonogram zajęć i konsultacji
 
+| Data    | Grupa 1 (środa)            | Grupa 2 (środa)           | Konsultacje (Ku A.318)         | Uwagi |
+|---------|----------------------------|---------------------------|--------------------------------|-------|
+| 15.10   | 11:45–14:15 *(pierwsze zajęcia)* | —                         | —                              |       |
+| 22.10   | —                          | 14:45–17:15 *(pierwsze zajęcia)* | —                              |       |
+| 29.10   | 11:45–14:15                 | 14:45–17:15                | 11:00–11:30 \| 17:15–17:45     | |
+| 12.11   | 11:45–14:15                 | 14:45–17:15                | 11:00–11:30 \| 17:15–17:45     |**Termin oddania Zadania 1**        |
+| 19.11   | 11:45–14:15                 | 14:45–17:15                | 11:00–11:30 \| 17:15–17:45     |  |
+| 26.11   | 11:45–14:15                 | 14:45–17:15                | 11:00–11:30 \| 17:15–17:45     |       |
+| 03.12   | 11:45–14:15                 | 14:45–17:15                | 11:00–11:30 \| 17:15–17:45     | **Termin oddania Zadania 2**      |
+| 10.12   | 11:45–14:15                 | 14:45–17:15                | 11:00–11:30 \| 17:15–17:45     |  |
+| 17.12   | 11:45–14:15                 | 09:00–11:30                | —                              |   **Kolokwium (SPSS)**    |
+
+> **Obie grupy** realizują zajęcia w te same dni, w różnych godzinach (poza pierwszymi zajęciami).  
+> Konsultacje odbywają się w sali **Ku A.318**.  
+:::
 
 <br><br>
 Strona została stworzona z pomocą Quarto. Więcej informacji na stronie <https://quarto.org/docs/websites>.

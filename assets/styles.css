@@ -11,3 +11,11 @@
 .navbar-brand img {
   height: 250px !important; /* zmień np. na 100px, jeśli chcesz jeszcze większe */
 }
+
+.rules-box {
+  background-color: #f9f9f9; /* jasne, neutralne tło */
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
