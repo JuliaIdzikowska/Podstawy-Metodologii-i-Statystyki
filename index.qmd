@@ -90,7 +90,7 @@ code-annotation: select
 
 ## Wprowadzenie do kursu
 
-Kurs z **Podstawow metodologii i statystyki** ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie SPSS, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.
+Kurs z **Podstaw metodologii i statystyki** ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie **SPSS**, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.
 
 Zajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.
 
@@ -103,6 +103,23 @@ Materiały dostępne na tej stronie będą służyły jako:
 - baza literatury obowiązkowej.
 
 Regularne korzystanie z materiałów pozwoli utrwalić zdobytą wiedzę i lepiej przygotować się do zaliczenia kursu.
+
+## Cele kursu 
+
+Celem części ćwiczeniowej kursu Podstawy metodologii i statystyki jest rozwój praktycznych umiejętności analizy danych w badaniach psychologicznych, z wykorzystaniem pakietu SPSS.
+
+W trakcie zajęć:
+
+- nauczysz się tworzyć i przygotowywać bazy danych w SPSS, 
+
+- opanujesz obliczanie i interpretację statystyk opisowych,
+
+- będziesz potrafił wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,
+
+- zdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu,
+
+- rozwiniesz świadomość metodologiczną i staniesz się początkującym samodzielnym badaczem. 
+
 
 
 ## Plan ćwiczeń
@@ -121,10 +138,55 @@ Poniżej znajduje się harmonogram zajęć ćwiczeniowych z przedmiotu Podstawy 
 
 
 
+# Organizacja pracy
+
+
+
+::: {.callout-note}
 ## Organizacja pracy
 
+Podczas ćwiczeń będziemy pracować w oparciu o:  
 
-## Materiały do kursu
+- **Praktyczne zadania w SPSS** – każdy temat zajęć zakończymy wykonaniem krótkiego ćwiczenia, które utrwali poznane metody.  
+- **Zadania domowe** – dwa projekty obejmujące analizę i interpretację danych w SPSS
+- **Kolokwium praktyczne** – pod koniec semestru sprawdzimy umiejętności analizy danych i interpretacji wyników.
+- **Obecność na zajęciach** – obowiązkowa; dopuszczalna jest jedna nieobecność, dodatkowe wymagają odrobienia z inną grupą.  
+
+Materiały na tej stronie pomogą Ci przygotować się do bieżących zajęć i zaliczenia końcowego.
+:::
+
+**Materiały z ćwiczeń** są opublikowane w odpowiednich sekcjach tematycznych w zakładce **[Ćwiczenia](Cwiczenia.qmd)**.Możesz też tam tarfić po kliknięciu w link 📘 *Zobacz lekcję* w tabeli powyżej przejdziesz bezpośrednio do treści danego tematu.
+
+> 💡 **Wskazówka:** Polecam po każdych zajęciach wrócić do tematu i powtórzyć materiał. Polecam też nie wyprzedzać materiału i podążać zgodnie z Planem i grupą. I polecam sięgać po literaturę :)
+
+**Zadania domowe** znajdziesz w osobnej zakładce **[Zadania domowe](Zadania.qmd)** w menu głównym.  
+Będą się tam pojawiały zadania domowe, dodatkowe przykłady oraz pliki do pobrania.  
+
+> 🧠 **Poziom mistrza** – dodatkowe wyzwania w **Zadaniach** pozwolą Ci utrwalić materiał i przećwiczyć nowe umiejętności. Warto!
+
+Zaglądaj tutaj regularnie, ponieważ strona będzie aktualizowana w trakcie semestru. 
+
+> 💡 **Wskazówka:** Jeśli chcesz szybko wrócić do tej strony, dodaj ją do zakładek w swojej przeglądarce.
+
+
+::: {.callout-warning}
+## ⚠️ Ważne zasady zaliczenia
+
+- Aby zaliczyć ćwiczenia, należy zdobyć **minimum 51 punktów**.  
+- Za każde z dwóch zadań domowych trzeba uzyskać co najmniej **5 punktów**.  
+- **Kolokwium praktyczne** odbywa się po zakończeniu wszystkich ćwiczeń.  
+- Nieobecność powyżej 1 zajęć wymaga odrobienia z inną grupą; **trzy nieobecności lub więcej** oznaczają niezaliczenie kursu.  
+- Za każdy dzień opóźnienia w oddaniu zadania domowego odejmowany jest **1 punkt**.
+:::
+
+
+
+## Dodatkowe materiały pomocne w procesie nauki 
+
+
+
+## Zasady współpracy i komunikacji 
+
 
 
 ## Kontakt
