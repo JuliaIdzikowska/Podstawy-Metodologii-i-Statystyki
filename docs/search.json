@@ -18,14 +18,14 @@
     "href": "Cwiczenia.html",
     "title": "Ćwiczenia - plan i tematy",
     "section": "",
-    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne\n\nwriteLines(hub, “Cwiczenia.qmd”)"
+    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne"
   },
   {
     "objectID": "Cwiczenia.html#plan-ćwiczeń",
     "href": "Cwiczenia.html#plan-ćwiczeń",
     "title": "Ćwiczenia - plan i tematy",
     "section": "",
-    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne\n\nwriteLines(hub, “Cwiczenia.qmd”)"
+    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne"
   },
   {
     "objectID": "index.html#plan-ćwiczeń",
