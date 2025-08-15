@@ -36,8 +36,9 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: sandstone
+    toggle: true
     css: assets/styles.css
     toc: true
     toc-location: left

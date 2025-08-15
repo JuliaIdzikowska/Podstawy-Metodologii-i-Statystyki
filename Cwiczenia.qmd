@@ -13,4 +13,3 @@ title: "Ćwiczenia - plan i tematy"
 
 
 
-writeLines(hub, "Cwiczenia.qmd")
