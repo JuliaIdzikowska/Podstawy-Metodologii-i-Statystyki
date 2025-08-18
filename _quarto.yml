@@ -12,17 +12,18 @@ website:
     left:
       - href: index.qmd
         text: Wprowadzenie
-      - href: Cwiczenia.qmd
-        text: Ćwiczenia
+        
+
+      - text: Ćwiczenia
         menu:
           - href: Cwiczenia/SPSS.qmd
-            text: 1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych
+            text: "1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych"
           - href: Cwiczenia/Statystyki_opisowe.qmd
-            text: 2. Statystyki opisowe zmiennych | Rozkład normalny | Testy normalności rozkładu
+            text: "2. Statystyki opisowe zmiennych | Rozkład normalny | Testy normalności rozkładu"
           - href: Cwiczenia/Analiza_korelacji.qmd
-            text: 3. Analiza korelacji | Zasady wyboru współczynnika korelacji | Współczynnik determinacji | Analiza kontyngencji
+            text: "3. Analiza korelacji | Zasady wyboru współczynnika korelacji | Współczynnik determinacji | Analiza kontyngencji"          
           - href: Cwiczenia/Jednozmiennowa_analiza.qmd
-            text: 4. Jednozmiennowa analiza regresji | Równanie regresji | Miary dopasowania modelu, współczynniki regresji
+            text: "4. Jednozmiennowa analiza regresji | Równanie regresji | Miary dopasowania modelu, współczynniki regresji"
           - href: Cwiczenia/Parametryczne_testy.qmd
             text: "5. Parametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby | Test jednorodności wariancji"
           - href: Cwiczenia/Nieparametryczne_testy.qmd

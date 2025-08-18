@@ -1,4 +1,16 @@
 ---
 title: "SPSS"
 ---
+Sylabus do zajęć nr 1
+
+|  | Treści programowe | Literatura obowiązkowa |
+|-:|---|---|
+| 1 | Wprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.<br>Józefacka, Kołek, Arciszewska-Leszczuk (2023), *Tom 1* (s. 105–114). WN PWN. |
+
+# Cele zajęć 
+- poznać interfejs SPSS,
+- utworzyć i opisać zmienne,
+- zimportować bazzę danych do SPSS, poznać struktuę bazy, 
+- wykonać proste operacje na danych (rekodowanie zmiennych, obliczenia na zmiennych). 
+
 

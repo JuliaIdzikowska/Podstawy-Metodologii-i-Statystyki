@@ -194,5 +194,12 @@
     "title": "Podstawy metodologii i statystyki",
     "section": "Kalendarz",
     "text": "Kalendarz\n\n\n\n\n\n\nHarmonogram zajęć i konsultacji\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\nGrupa 1 (środa)\nGrupa 2 (środa)\nKonsultacje (Ku A.318)\nUwagi\n\n\n\n\n15.10\n11:45–14:15 (pierwsze zajęcia)\n—\n—\n\n\n\n22.10\n—\n14:45–17:15 (pierwsze zajęcia)\n—\n\n\n\n29.10\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n12.11\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\nTermin oddania Zadania 1\n\n\n19.11\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n26.11\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n03.12\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\nTermin oddania Zadania 2\n\n\n10.12\n11:45–14:15\n14:45–17:15\n11:00–11:30 | 17:15–17:45\n\n\n\n17.12\n11:45–14:15\n09:00–11:30\n—\nKolokwium (SPSS)\n\n\n\n\nObie grupy realizują zajęcia w te same dni, w różnych godzinach (poza pierwszymi zajęciami).\nKonsultacje odbywają się w sali Ku A.318.\n\n\n\n Strona została stworzona z pomocą Quarto. Więcej informacji na stronie https://quarto.org/docs/websites.\n\n\nSee this specific code\n```{r}\n1 + 1\n```\n\n\n[1] 2"
+  },
+  {
+    "objectID": "Cwiczenia/SPSS.html",
+    "href": "Cwiczenia/SPSS.html",
+    "title": "SPSS",
+    "section": "",
+    "text": "Sylabus do zajęć nr 1\n\n\n\n\n\n\n\n\n\nTreści programowe\nLiteratura obowiązkowa\n\n\n\n\n1\nWprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.Józefacka, Kołek, Arciszewska-Leszczuk (2023), Tom 1 (s. 105–114). WN PWN.\n\n\n\n\nCele zajęć\n\npoznać interfejs SPSS,\nutworzyć i opisać zmienne,\nzimportować bazzę danych do SPSS, poznać struktuę bazy,\nwykonać proste operacje na danych (rekodowanie zmiennych, obliczenia na zmiennych)."
   }
 ]
