@@ -31,7 +31,8 @@ website:
         text: Zadania
       - href: Sylabus.qmd
         text: Sylabus
-        
+  page-navigation: true
+  search: true
 
 format:
   html:
