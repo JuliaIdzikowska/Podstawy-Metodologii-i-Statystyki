@@ -1,0 +1,37 @@
+---
+title: "0. START — Instalacja i pierwsze uruchomienie SPSS"
+format:
+  html:
+    toc: true
+    toc-location: left
+    link-external-newwindow: true
+    link-external-icon: true
+---
+
+Zanim rozpoczniemy pierwsze ćwiczenia, upewnij się, że masz zainstalowany i aktywowany program **IBM SPSS Statistics**.  
+Poniżej znajdziesz krótką instrukcję oraz link do oficjalnych materiałów SWPS, które przeprowadzą Cię krok po kroku przez proces instalacji.
+
+## Jak uzyskać dostęp do SPSS?
+
+Aby korzystać z IBM SPSS Statistics w ramach kursu, musisz przejść proces licencjonowania opisany przez SWPS.  
+Oficjalna instrukcja znajduje się tutaj:  
+**[Instrukcja instalacji i licencjonowania SPSS (SWPS)](https://my.swps.edu.pl/s/knowledge-base/article?language=pl&recordId=kA0Qt00000031UDKAY&categoryApiNames=TB_Library_in_Warsaw_General_Information%2CTB_Library_in_Poznan_General_Information%2CTB_Library_in_Krakow_General_Information%2CTB_Library_in_Wroclaw_General_Information%2CTB_Library_in_Katowice_General_Information%2CTB_Library_in_Sopot_General_Information)**  
+
+---
+
+## Co trzeba zrobić krok po kroku?
+
+1. **Podpisz umowę licencyjną** – pobierz z portalu SWPS, podpisz, wyślij skan na adres biblioteki (tylko z maila w domenie @swps.edu.pl).  
+2. **Wnieś jednorazową opłatę manipulacyjną (10 zł)** – przelew lub płatność w bibliotece.  
+   > Pracownicy SWPS są zwolnieni z opłaty.  
+3. **Dostarcz umowę + potwierdzenie opłaty** (mailowo lub osobiście w bibliotece).  
+4. **Pobierz instalator SPSS** (Windows lub MacOS) z linków podanych w artykule.  
+5. **Zainstaluj program** zgodnie z instrukcją PDF (do pobrania na stronie).  
+6. **Aktywuj licencję** – otrzymasz kod od biblioteki.  
+
+
+## Gdzie szukać pomocy? 🆘 
+
+- Problemy z licencją: **biblioteka@swps.edu.pl** lub mail biblioteki kampusu Poznań - **biblioteka@cdv.pl**  
+- Problemy techniczne: **helpdesk@swps.edu.pl**  
+- Wsparcie merytoryczne w ramach kursu: **jidzikowska@swps.edu.pl**

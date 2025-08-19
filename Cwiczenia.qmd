@@ -4,6 +4,7 @@ title: "Ćwiczenia - plan i tematy"
 
 ## Plan ćwiczeń 
 
+0. [START - Przygotowanie do ćwiczeń, instalacja SPSS](Cwiczenia/start.qmd)
 1. [SPSS — Tworzenie baz danych i podstawowe operacje](Cwiczenia/SPSS.qmd)
 2. [Statystyki opisowe zmiennych](Cwiczenia/Statystyki_opisowe.qmd)
 3. [Analiza korelacji](Cwiczenia/Analiza_korelacji.qmd)
@@ -12,4 +13,6 @@ title: "Ćwiczenia - plan i tematy"
 6. [Testy nieparametryczne](Cwiczenia/Nieparametryczne_testy.qmd)
 
 
+
+## SPSS na Twoim PC
 

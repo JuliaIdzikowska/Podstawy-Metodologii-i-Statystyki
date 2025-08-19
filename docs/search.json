@@ -18,14 +18,14 @@
     "href": "Cwiczenia.html",
     "title": "Ćwiczenia - plan i tematy",
     "section": "",
-    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne"
+    "text": "START - Przygotowanie do ćwiczeń, instalacja SPSS\nSPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne"
   },
   {
     "objectID": "Cwiczenia.html#plan-ćwiczeń",
     "href": "Cwiczenia.html#plan-ćwiczeń",
     "title": "Ćwiczenia - plan i tematy",
     "section": "",
-    "text": "SPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne"
+    "text": "START - Przygotowanie do ćwiczeń, instalacja SPSS\nSPSS — Tworzenie baz danych i podstawowe operacje\nStatystyki opisowe zmiennych\nAnaliza korelacji\nJednozmiennowa analiza regresji\nTesty parametryczne\nTesty nieparametryczne"
   },
   {
     "objectID": "index.html#plan-ćwiczeń",
@@ -201,5 +201,40 @@
     "title": "SPSS",
     "section": "",
     "text": "Sylabus do zajęć nr 1\n\n\n\n\n\n\n\n\n\nTreści programowe\nLiteratura obowiązkowa\n\n\n\n\n1\nWprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych.\nBedyńska & Cypryańska (2013), Drogowskaz 1 (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.Józefacka, Kołek, Arciszewska-Leszczuk (2023), Tom 1 (s. 105–114). WN PWN.\n\n\n\n\nCele zajęć\n\npoznać interfejs SPSS,\nutworzyć i opisać zmienne,\nzimportować bazzę danych do SPSS, poznać struktuę bazy,\nwykonać proste operacje na danych (rekodowanie zmiennych, obliczenia na zmiennych)."
+  },
+  {
+    "objectID": "Cwiczenia.html#spss-na-twoim-pc",
+    "href": "Cwiczenia.html#spss-na-twoim-pc",
+    "title": "Ćwiczenia - plan i tematy",
+    "section": "SPSS na Twoim PC",
+    "text": "SPSS na Twoim PC"
+  },
+  {
+    "objectID": "Cwiczenia/start.html",
+    "href": "Cwiczenia/start.html",
+    "title": "0. START — Instalacja i pierwsze uruchomienie SPSS",
+    "section": "",
+    "text": "Zanim rozpoczniemy pierwsze ćwiczenia, upewnij się, że masz zainstalowany i aktywowany program IBM SPSS Statistics.\nPoniżej znajdziesz krótką instrukcję oraz link do oficjalnych materiałów SWPS, które przeprowadzą Cię krok po kroku przez proces instalacji."
+  },
+  {
+    "objectID": "Cwiczenia/start.html#jak-uzyskać-dostęp-do-spss",
+    "href": "Cwiczenia/start.html#jak-uzyskać-dostęp-do-spss",
+    "title": "0. START — Instalacja i pierwsze uruchomienie SPSS",
+    "section": "Jak uzyskać dostęp do SPSS?",
+    "text": "Jak uzyskać dostęp do SPSS?\nAby korzystać z IBM SPSS Statistics w ramach kursu, musisz przejść proces licencjonowania opisany przez SWPS.\nOficjalna instrukcja znajduje się tutaj:\nInstrukcja instalacji i licencjonowania SPSS (SWPS)"
+  },
+  {
+    "objectID": "Cwiczenia/start.html#co-trzeba-zrobić-krok-po-kroku",
+    "href": "Cwiczenia/start.html#co-trzeba-zrobić-krok-po-kroku",
+    "title": "0. START — Instalacja i pierwsze uruchomienie SPSS",
+    "section": "Co trzeba zrobić krok po kroku?",
+    "text": "Co trzeba zrobić krok po kroku?\n\nPodpisz umowę licencyjną – pobierz z portalu SWPS, podpisz, wyślij skan na adres biblioteki (tylko z maila w domenie @swps.edu.pl).\n\nWnieś jednorazową opłatę manipulacyjną (10 zł) – przelew lub płatność w bibliotece.\n&gt; Pracownicy SWPS są zwolnieni z opłaty.\n\nDostarcz umowę + potwierdzenie opłaty (mailowo lub osobiście w bibliotece).\n\nPobierz instalator SPSS (Windows lub MacOS) z linków podanych w artykule.\n\nZainstaluj program zgodnie z instrukcją PDF (do pobrania na stronie).\n\nAktywuj licencję – otrzymasz kod od biblioteki."
+  },
+  {
+    "objectID": "Cwiczenia/start.html#gdzie-szukać-pomocy",
+    "href": "Cwiczenia/start.html#gdzie-szukać-pomocy",
+    "title": "0. START — Instalacja i pierwsze uruchomienie SPSS",
+    "section": "Gdzie szukać pomocy? 🆘",
+    "text": "Gdzie szukać pomocy? 🆘\n\nProblemy z licencją: biblioteka@swps.edu.pl lub mail biblioteki kampusu Poznań - biblioteka@cdv.pl\n\nProblemy techniczne: helpdesk@swps.edu.pl\n\nWsparcie merytoryczne w ramach kursu: jidzikowska@swps.edu.pl"
   }
 ]

@@ -16,6 +16,8 @@ website:
 
       - text: Ćwiczenia
         menu:
+          - href: Cwiczenia/start.qmd
+            text: "0. START | Instalacja i pierwsze uruchomienie SPSS"
           - href: Cwiczenia/SPSS.qmd
             text: "1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych"
           - href: Cwiczenia/Statystyki_opisowe.qmd
