@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SPSS – PODSTAWY METODOLOGII I STATYSTYKI - ĆWICZENIA</title>
+<title>1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych – PODSTAWY METODOLOGII I STATYSTYKI - ĆWICZENIA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,10 +97,14 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Wprowadzenie</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-wiczenia" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Ćwiczenia</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-zajęcia" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Zajęcia</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-wiczenia">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-zajęcia">    
+        <li>
+    <a class="dropdown-item" href="../Cwiczenia/start.html">
+ <span class="dropdown-text">0. START | Instalacja i pierwsze uruchomienie SPSS</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="../Cwiczenia/SPSS.html">
  <span class="dropdown-text">1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych</span></a>
@@ -151,7 +155,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Na tej stronie</h2>
    
   <ul>
-  <li><a href="#cele-zajęć" id="toc-cele-zajęć" class="nav-link active" data-scroll-target="#cele-zajęć">Cele zajęć</a></li>
+  <li><a href="#interfejs-spss" id="toc-interfejs-spss" class="nav-link active" data-scroll-target="#interfejs-spss">Interfejs SPSS</a>
+  <ul class="collapse">
+  <li><a href="#opisy-elementów" id="toc-opisy-elementów" class="nav-link" data-scroll-target="#opisy-elementów">Opisy elementów</a></li>
+  </ul></li>
   </ul>
 </nav>
 </nav>
@@ -164,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">SPSS</h1>
+<h1 class="title">1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych</h1>
 </div>
 
 
@@ -203,16 +210,81 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<section id="cele-zajęć" class="level1">
-<h1>Cele zajęć</h1>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+🎯 Cele zajęć nr 1
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
-<li>poznać interfejs SPSS,</li>
-<li>utworzyć i opisać zmienne,</li>
-<li>zimportować bazzę danych do SPSS, poznać struktuę bazy,</li>
-<li>wykonać proste operacje na danych (rekodowanie zmiennych, obliczenia na zmiennych).</li>
+<li>Poznasz interfejs SPSS i jego podstawowe elementy.<br>
+</li>
+<li>Nauczysz się tworzyć bazę danych i definiować zmienne.<br>
+</li>
+<li>Będziesz potrafić wykonywać pierwsze operacje na danych (rekodowanie zmiennych, obliczanie na zmiennych).</li>
+<li>Dowiesz się, czym są wskaźniki zmiennych i jak je tworzyć.</li>
 </ul>
+</div>
+</div>
+<section id="interfejs-spss" class="level1">
+<h1>Interfejs SPSS</h1>
+<p>Po uruchomieniu programu SPSS zobaczysz <strong>okno główne</strong>, które składa się z dwóch podstawowych widoków:</p>
+<ul>
+<li><strong>Data View (Widok danych)</strong> – tutaj wprowadzamy dane, każdy wiersz to jeden przypadek (np. uczestnik badania), a każda kolumna to zmienna.<br>
+</li>
+<li><strong>Variable View (Widok zmiennych)</strong> – tutaj definiujemy właściwości zmiennych (np. nazwa, typ, etykiety, wartości).</li>
+</ul>
+<p>Na górze znajduje się <strong>pasek narzędzi i menu główne</strong>, w którym znajdziesz wszystkie najważniejsze opcje analizy (m.in. <em>Analyze</em>, <em>Transform</em>, <em>Graphs</em>).</p>
+<p>Poniżej znajduje się przykład interfejsu SPSS:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/spss_interface_data_dobrostan.PNG" class="img-fluid figure-img"></p>
+<figcaption>Widok interfejsu SPSS</figcaption>
+</figure>
+</div>
+<!-- HTML: obraz + hotspoty -->
+<div class="annotated-image">
+<p><img src="../img/spss_interface_data_dobrostan.png" alt="Interfejs SPSS – główne elementy"></p>
+<p><!-- 1: Menu Analyze --> <a class="hotspot" style="top:-700%; left:1%;" href="#opis-1" aria-label="Menu Analyze" data-label="1" data-tooltip="Menu Analyze"></a></p>
+<p><!-- 2: Menu Transform --> <a class="hotspot" style="top:56%; left:33%;" href="#opis-2" aria-label="Menu Transform" data-label="2" data-tooltip="Menu Transform"></a></p>
+<p><!-- 3: Variable View (zakładka) --> <a class="hotspot" style="top:97%; left:10%;" href="#opis-3" aria-label="Variable View" data-label="3" data-tooltip="Variable View"></a></p>
+</div>
+<section id="opisy-elementów" class="level3">
+<h3 class="anchored" data-anchor-id="opisy-elementów">Opisy elementów</h3>
+<ol type="1">
+<li><a id="opis-1"></a> <strong>Analyze</strong> — wszystkie analizy statystyczne (testy t, korelacje, regresja, itp.).<br>
+</li>
+<li><a id="opis-2"></a> <strong>Transform</strong> — operacje na danych: rekodowanie, obliczanie nowych zmiennych, standaryzacja.<br>
+</li>
+<li><a id="opis-3"></a> <strong>Variable View</strong> — definicje zmiennych (nazwa, typ, etykiety, wartości).</li>
+</ol>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+📝 Zadanie do wykonania
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Otwórz SPSS i stwórz nowy plik danych.<br>
+</li>
+<li>Wprowadź przykładowe zmienne: płeć, wiek, ocena satysfakcji (skala 1–5).<br>
+</li>
+<li>Zapisz plik na dysku i przygotuj się do operacji transformacji zmiennych na kolejnych zajęciach.<br>
+</li>
+</ol>
+</div>
+</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -14,7 +14,7 @@ website:
         text: Wprowadzenie
         
 
-      - text: Ćwiczenia
+      - text: Zajęcia
         menu:
           - href: Cwiczenia/start.qmd
             text: "0. START | Instalacja i pierwsze uruchomienie SPSS"

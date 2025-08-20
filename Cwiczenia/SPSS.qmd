@@ -1,5 +1,5 @@
 ---
-title: "SPSS"
+title: "1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych"
 ---
 Sylabus do zajęć nr 1
 
@@ -7,10 +7,57 @@ Sylabus do zajęć nr 1
 |-:|---|---|
 | 1 | Wprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych. | Bedyńska & Cypryańska (2013), *Drogowskaz 1* (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.<br>Józefacka, Kołek, Arciszewska-Leszczuk (2023), *Tom 1* (s. 105–114). WN PWN. |
 
-# Cele zajęć 
-- poznać interfejs SPSS,
-- utworzyć i opisać zmienne,
-- zimportować bazzę danych do SPSS, poznać struktuę bazy, 
-- wykonać proste operacje na danych (rekodowanie zmiennych, obliczenia na zmiennych). 
 
 
+::: callout-tip
+### 🎯 Cele zajęć nr 1
+- Poznasz interfejs SPSS i jego podstawowe elementy.  
+- Nauczysz się tworzyć bazę danych i definiować zmienne.  
+- Będziesz potrafić wykonywać pierwsze operacje na danych (rekodowanie zmiennych, obliczanie na zmiennych).
+- Dowiesz się, czym są wskaźniki zmiennych i jak je tworzyć. 
+:::
+
+# Interfejs SPSS
+
+Po uruchomieniu programu SPSS zobaczysz **okno główne**, które składa się z dwóch podstawowych widoków:  
+
+- **Data View (Widok danych)** – tutaj wprowadzamy dane, każdy wiersz to jeden przypadek (np. uczestnik badania), a każda kolumna to zmienna.  
+- **Variable View (Widok zmiennych)** – tutaj definiujemy właściwości zmiennych (np. nazwa, typ, etykiety, wartości).  
+
+Na górze znajduje się **pasek narzędzi i menu główne**, w którym znajdziesz wszystkie najważniejsze opcje analizy (m.in. *Analyze*, *Transform*, *Graphs*).  
+
+Poniżej znajduje się przykład interfejsu SPSS: 
+
+![Widok interfejsu SPSS](img/spss_interface_data_dobrostan.PNG)
+
+<!-- HTML: obraz + hotspoty -->
+<div class="annotated-image">
+  <img src="../img/spss_interface_data_dobrostan.png" alt="Interfejs SPSS – główne elementy">
+
+  <!-- 1: Menu Analyze -->
+  <a class="hotspot" style="top:-700%; left:1%;"
+     href="#opis-1" aria-label="Menu Analyze"
+     data-label="1" data-tooltip="Menu Analyze"></a>
+
+  <!-- 2: Menu Transform -->
+  <a class="hotspot" style="top:56%; left:33%;"
+     href="#opis-2" aria-label="Menu Transform"
+     data-label="2" data-tooltip="Menu Transform"></a>
+
+  <!-- 3: Variable View (zakładka) -->
+  <a class="hotspot" style="top:97%; left:10%;"
+     href="#opis-3" aria-label="Variable View"
+     data-label="3" data-tooltip="Variable View"></a>
+</div>
+
+### Opisy elementów
+1. <a id="opis-1"></a> **Analyze** — wszystkie analizy statystyczne (testy t, korelacje, regresja, itp.).  
+2. <a id="opis-2"></a> **Transform** — operacje na danych: rekodowanie, obliczanie nowych zmiennych, standaryzacja.  
+3. <a id="opis-3"></a> **Variable View** — definicje zmiennych (nazwa, typ, etykiety, wartości).
+
+::: callout-note
+### 📝 Zadanie do wykonania
+1. Otwórz SPSS i stwórz nowy plik danych.  
+2. Wprowadź przykładowe zmienne: płeć, wiek, ocena satysfakcji (skala 1–5).  
+3. Zapisz plik na dysku i przygotuj się do operacji transformacji zmiennych na kolejnych zajęciach.  
+:::
