@@ -61,3 +61,33 @@ Poniżej znajduje się przykład interfejsu SPSS:
 2. Wprowadź przykładowe zmienne: płeć, wiek, ocena satysfakcji (skala 1–5).  
 3. Zapisz plik na dysku i przygotuj się do operacji transformacji zmiennych na kolejnych zajęciach.  
 :::
+
+
+
+
+
+## 📖 Słowniczek pojęć
+
+::: {.panel-tabset}
+### SPSS
+**SPSS (Statistical Package for the Social Sciences)** – program do analizy statystycznej danych, szeroko wykorzystywany w naukach społecznych, psychologii i biznesie.  
+
+### Zmienna
+**Zmienna (Variable)** – cecha, którą badamy, np. wiek, płeć, wynik testu. W SPSS każda zmienna ma swoją kolumnę.  
+
+### Wartość
+**Wartość (Value)** – konkretna liczba lub kategoria przypisana danej zmiennej, np. wiek = 23, płeć = 1 (kobieta).  
+
+### Variable View
+**Variable View** – zakładka w SPSS, gdzie definiujemy zmienne (nazwy, typy, etykiety, kody wartości).  
+
+### Data View
+**Data View** – zakładka w SPSS, gdzie wprowadzamy dane (wiersze = osoby, kolumny = zmienne).  
+
+### Rekodowanie
+**Rekodowanie (Recode)** – zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna”).  
+
+### Wskaźnik zmiennej
+**Wskaźnik zmiennej (Index/Composite)** – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu).  
+:::
+
