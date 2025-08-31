@@ -21,39 +21,36 @@ Sylabus do zajęć nr 1
 
 Po uruchomieniu programu SPSS zobaczysz **okno główne**, które składa się z dwóch podstawowych widoków:  
 
-- **Data View (Widok danych)** – tutaj wprowadzamy dane, każdy wiersz to jeden przypadek (np. uczestnik badania), a każda kolumna to zmienna.  
-- **Variable View (Widok zmiennych)** – tutaj definiujemy właściwości zmiennych (np. nazwa, typ, etykiety, wartości).  
+- **Widok danych (Data View)** – tutaj wprowadzamy dane, każdy wiersz to jeden przypadek (np. uczestnik badania), a każda kolumna to zmienna.  
+- **Widok zmiennych (Variable View)** – tutaj definiujemy właściwości zmiennych (np. nazwa, typ, etykiety, wartości).  
 
-Na górze znajduje się **pasek narzędzi i menu główne**, w którym znajdziesz wszystkie najważniejsze opcje analizy (m.in. *Analyze*, *Transform*, *Graphs*).  
+Na górze znajduje się **pasek narzędzi i menu główne**, w którym znajdziesz wszystkie najważniejsze opcje analizy (m.in. *Analiza*, *Przekształcenia*, *Wykresy*).  
 
-Poniżej znajduje się przykład interfejsu SPSS: 
+Na dole okna możesz przełączać się pomiędzy **Widokiem danych** i **Widokiem zmiennych**, w zależności od tego, czy chcesz **pracować na danych** czy **definiować zmienne**.  
 
-![Widok interfejsu SPSS](img/spss_interface_data_dobrostan.PNG)
+
+Poniżej przykład interfejsu SPSS z **widokiem danych** i zaznaczonymi kluczowymi elementami:  
 
 <!-- HTML: obraz + hotspoty -->
 <div class="annotated-image">
-  <img src="../img/spss_interface_data_dobrostan.png" alt="Interfejs SPSS – główne elementy">
+  <img src="img/spss_interface_data_dobrostan.PNG" alt="Interfejs SPSS – główne elementy">
 
-  <!-- 1: Menu Analyze -->
-  <a class="hotspot" style="top:-700%; left:1%;"
-     href="#opis-1" aria-label="Menu Analyze"
-     data-label="1" data-tooltip="Menu Analyze"></a>
+  <!-- 1:   Pasek narzędzi i menu główne -->
+  <a class="hotspot" style="top:-3%; left:-1%;"
+     href="#opis-1" aria-label="Pasek narzędzi i menu główne"
+     data-label="1" data-tooltip="Pasek narzędzi i menu główne"></a>
+     
+  <!-- 2: Okno główne: Widok danych -->
+  <a class="hotspot" style="top:50%; left:40%;"
+     href="#opis-2" aria-label="Okno główne: Widok danych"
+     data-label="2" data-tooltip="Okno główne: Widok danych"></a>
 
-  <!-- 2: Menu Transform -->
-  <a class="hotspot" style="top:56%; left:33%;"
-     href="#opis-2" aria-label="Menu Transform"
-     data-label="2" data-tooltip="Menu Transform"></a>
-
-  <!-- 3: Variable View (zakładka) -->
-  <a class="hotspot" style="top:97%; left:10%;"
-     href="#opis-3" aria-label="Variable View"
-     data-label="3" data-tooltip="Variable View"></a>
+  <!-- 3: Zmiana widoku zmienne/dane -->
+  <a class="hotspot" style="top:92%; left:13%;"
+     href="#opis-3" aria-label="Zmiana widoku zmienne/dane"
+     data-label="3" data-tooltip="Przełączanie widoków"></a>
 </div>
 
-### Opisy elementów
-1. <a id="opis-1"></a> **Analyze** — wszystkie analizy statystyczne (testy t, korelacje, regresja, itp.).  
-2. <a id="opis-2"></a> **Transform** — operacje na danych: rekodowanie, obliczanie nowych zmiennych, standaryzacja.  
-3. <a id="opis-3"></a> **Variable View** — definicje zmiennych (nazwa, typ, etykiety, wartości).
 
 ::: callout-note
 ### 📝 Zadanie do wykonania
