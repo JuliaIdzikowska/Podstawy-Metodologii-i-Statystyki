@@ -52,18 +52,21 @@ Poniżej przykład interfejsu SPSS z **widokiem danych** i zaznaczonymi kluczowy
 </div>
 
 
+
 ::: callout-note
-### 📝 Zadanie do wykonania
+### 📝 Zadanie do wykonania: Utworzenie bazy danych
 1. Otwórz SPSS i stwórz nowy plik danych.  
-2. Wprowadź przykładowe zmienne: płeć, wiek, ocena satysfakcji (skala 1–5).  
-3. Zapisz plik na dysku i przygotuj się do operacji transformacji zmiennych na kolejnych zajęciach.  
+2. Wprowadź zmienne (min. 5): płeć, wiek, sen, nastój (1-10), ocena satysfakcji (1-5).
+3. Wpisz dane dla 5 fikcyjnych osób. 
 :::
 
 
+# Podstawowe operacje na danych
 
 
 
-## 📖 Słowniczek pojęć
+
+# 📖 Słowniczek pojęć
 
 ::: {.panel-tabset}
 ### SPSS
