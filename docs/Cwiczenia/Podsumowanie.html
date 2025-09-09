@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych – PODSTAWY METODOLOGII I STATYSTYKI - ĆWICZENIA</title>
+<title>Podsumowanie – PODSTAWY METODOLOGII I STATYSTYKI - ĆWICZENIA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -126,8 +126,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">5. Parametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby | Test jednorodności wariancji</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../Cwiczenia/Nieparametryczne_testy.html">
- <span class="dropdown-text">6. Nieparametryczne testy różnic: test U Manna- Whitneya, test Wilcoxona</span></a>
+    <a class="dropdown-item" href="../Cwiczenia/Podsumowanie.html">
+ <span class="dropdown-text">6. Podsumowanie analiz poznanych podczas ćwiczeń i kolokwium semestralne.</span></a>
   </li>  
     </ul>
   </li>
@@ -151,17 +151,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Na tej stronie</h2>
-   
-  <ul>
-  <li><a href="#sylabus-i-cele-zajęć-1" id="toc-sylabus-i-cele-zajęć-1" class="nav-link active" data-scroll-target="#sylabus-i-cele-zajęć-1">Sylabus i cele zajęć #1</a></li>
-  <li><a href="#interfejs-spss" id="toc-interfejs-spss" class="nav-link" data-scroll-target="#interfejs-spss">Interfejs SPSS</a></li>
-  <li><a href="#tworzenie-baz-danych" id="toc-tworzenie-baz-danych" class="nav-link" data-scroll-target="#tworzenie-baz-danych">Tworzenie baz danych</a></li>
-  <li><a href="#podstawowe-operacje-na-danych" id="toc-podstawowe-operacje-na-danych" class="nav-link" data-scroll-target="#podstawowe-operacje-na-danych">Podstawowe operacje na danych</a></li>
-  <li><a href="#słowniczek-pojęć" id="toc-słowniczek-pojęć" class="nav-link" data-scroll-target="#słowniczek-pojęć">📖 Słowniczek pojęć</a></li>
-  </ul>
-</nav>
+    
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
@@ -172,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych</h1>
+<h1 class="title">Podsumowanie</h1>
 </div>
 
 
@@ -189,124 +179,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="sylabus-i-cele-zajęć-1" class="level1">
-<h1>Sylabus i cele zajęć #1</h1>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 25%">
-<col style="width: 37%">
-<col style="width: 37%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: right;"></th>
-<th>Treści programowe</th>
-<th>Literatura obowiązkowa</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;">1</td>
-<td>Wprowadzenie do SPSS: interfejs, tworzenie bazy danych, podstawowe operacje, wskaźniki zmiennych.</td>
-<td>Bedyńska &amp; Cypryańska (2013), <em>Drogowskaz 1</em> (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.<br>Józefacka, Kołek, Arciszewska-Leszczuk (2023), <em>Tom 1</em> (s. 105–114). WN PWN.</td>
-</tr>
-</tbody>
-</table>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-🎯 Cele zajęć nr 1
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li>Poznasz interfejs SPSS i jego podstawowe elementy.<br>
-</li>
-<li>Nauczysz się tworzyć bazę danych i definiować zmienne.<br>
-</li>
-<li>Będziesz potrafić wykonywać pierwsze operacje na danych (rekodowanie zmiennych, obliczanie na zmiennych).</li>
-<li>Dowiesz się, czym są wskaźniki zmiennych i jak je tworzyć.</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="interfejs-spss" class="level1">
-<h1>Interfejs SPSS</h1>
-<p>Po uruchomieniu programu SPSS zobaczysz <strong>okno główne</strong>, które składa się z dwóch podstawowych widoków:</p>
-<ul>
-<li><strong>Widok danych (Data View)</strong> – tutaj wprowadzamy dane, każdy wiersz to jeden przypadek (np. uczestnik badania), a każda kolumna to zmienna.<br>
-</li>
-<li><strong>Widok zmiennych (Variable View)</strong> – tutaj definiujemy właściwości zmiennych (np. nazwa, typ, etykiety, wartości).</li>
-</ul>
-<p>Na górze znajduje się <strong>pasek narzędzi i menu główne</strong>, w którym znajdziesz wszystkie najważniejsze opcje analizy (m.in. <em>Analiza</em>, <em>Przekształcenia</em>, <em>Wykresy</em>).</p>
-<p>Na dole okna możesz przełączać się pomiędzy <strong>Widokiem danych</strong> i <strong>Widokiem zmiennych</strong>, w zależności od tego, czy chcesz <strong>pracować na danych</strong> czy <strong>definiować zmienne</strong>.</p>
-<p>Poniżej przykład interfejsu SPSS z <strong>widokiem danych</strong> i zaznaczonymi kluczowymi elementami:</p>
-<!-- HTML: obraz + hotspoty -->
-<div class="annotated-image">
-<p><img src="img/spss_interface_data_dobrostan.PNG" alt="Interfejs SPSS – główne elementy"></p>
-<p><!-- 1:   Pasek narzędzi i menu główne --> <a class="hotspot" style="top:-3%; left:25%;" href="#opis-1" aria-label="Pasek narzędzi i menu główne" data-label="1" data-tooltip="Pasek narzędzi i menu główne"></a></p>
-<p><!-- 2: Okno główne: Widok danych --> <a class="hotspot" style="top:50%; left:40%;" href="#opis-2" aria-label="Okno główne: Widok danych" data-label="2" data-tooltip="Okno główne: Widok danych"></a></p>
-<p><!-- 3: Zmiana widoku zmienne/dane --> <a class="hotspot" style="top:92%; left:13%;" href="#opis-3" aria-label="Zmiana widoku zmienne/dane" data-label="3" data-tooltip="Przełączanie widoków"></a></p>
-</div>
-</section>
-<section id="tworzenie-baz-danych" class="level1">
-<h1>Tworzenie baz danych</h1>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-📝 Zadanie do wykonania: Tworzenie bazy danych
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ol type="1">
-<li>Otwórz SPSS i stwórz nowy plik danych.<br>
-</li>
-<li>Wprowadź zmienne (min. 5): płeć, wiek, sen, nastój (1-10), ocena satysfakcji (1-5).</li>
-<li>Wpisz dane dla 5 fikcyjnych osób.</li>
-</ol>
-</div>
-</div>
-</section>
-<section id="podstawowe-operacje-na-danych" class="level1">
-<h1>Podstawowe operacje na danych</h1>
-</section>
-<section id="słowniczek-pojęć" class="level1">
-<h1>📖 Słowniczek pojęć</h1>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">SPSS</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Zmienna</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Wartość</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false">Variable View</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-5" role="tab" aria-controls="tabset-1-5" aria-selected="false">Data View</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-6-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-6" role="tab" aria-controls="tabset-1-6" aria-selected="false">Rekodowanie</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-7-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-7" role="tab" aria-controls="tabset-1-7" aria-selected="false">Wskaźnik zmiennej</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p><strong>SPSS (Statistical Package for the Social Sciences)</strong> – program do analizy statystycznej danych, szeroko wykorzystywany w naukach społecznych, psychologii i biznesie.</p>
-</div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<p><strong>Zmienna (Variable)</strong> – cecha, którą badamy, np. wiek, płeć, wynik testu. W SPSS każda zmienna ma swoją kolumnę.</p>
-</div>
-<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
-<p><strong>Wartość (Value)</strong> – konkretna liczba lub kategoria przypisana danej zmiennej, np. wiek = 23, płeć = 1 (kobieta).</p>
-</div>
-<div id="tabset-1-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-4-tab">
-<p><strong>Variable View</strong> – zakładka w SPSS, gdzie definiujemy zmienne (nazwy, typy, etykiety, kody wartości).</p>
-</div>
-<div id="tabset-1-5" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-5-tab">
-<p><strong>Data View</strong> – zakładka w SPSS, gdzie wprowadzamy dane (wiersze = osoby, kolumny = zmienne).</p>
-</div>
-<div id="tabset-1-6" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-6-tab">
-<p><strong>Rekodowanie (Recode)</strong> – zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna”).</p>
-</div>
-<div id="tabset-1-7" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-7-tab">
-<p><strong>Wskaźnik zmiennej (Index/Composite)</strong> – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu).</p>
-</div>
-</div>
-</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

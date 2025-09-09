@@ -24,12 +24,12 @@ website:
             text: "2. Statystyki opisowe zmiennych | Rozkład normalny | Testy normalności rozkładu"
           - href: Cwiczenia/Analiza_korelacji.qmd
             text: "3. Analiza korelacji | Zasady wyboru współczynnika korelacji | Współczynnik determinacji | Analiza kontyngencji"          
-          - href: Cwiczenia/Jednozmiennowa_analiza.qmd
-            text: "4. Jednozmiennowa analiza regresji | Równanie regresji | Miary dopasowania modelu, współczynniki regresji"
-          - href: Cwiczenia/Parametryczne_testy.qmd
-            text: "5. Parametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby | Test jednorodności wariancji"
-          - href: Cwiczenia/Nieparametryczne_testy.qmd
-            text: "6. Nieparametryczne testy różnic: test U Manna- Whitneya, test Wilcoxona"
+          - href: Cwiczenia/Niezalezne.qmd
+            text: "4. Parametryczne i nieparametryczne testy różnic dla prób niezależnych: test t dla prób niezależnych, test U Manna-Whitneya"
+          - href: Cwiczenia/Zalezne.qmd
+            text: "5. Parametryczne i nieparametryczne testy różnic dla prób zależnych: test t dla prób zależnych, test Wilcoxona. Test t dla jednej próby."
+          - href: Cwiczenia/Podsumowanie.qmd
+            text: "6. Podsumowanie analiz poznanych podczas ćwiczeń i kolokwium semestralne."
       - href: Zadania.qmd
         text: Zadania
       - href: Sylabus.qmd

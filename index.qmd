@@ -138,9 +138,9 @@ Poniżej znajduje się harmonogram zajęć ćwiczeniowych z przedmiotu Podstawy 
 | Wprowadzenie do pracy z pakietem SPSS. Interfejs programu. Tworzenie bazy danych. Podstawowe operacje na danych. Tworzenie wskaźników zmiennych. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 48–71, 114–130). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 105–114). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/SPSS.qmd) |
 | Statystyki opisowe zmiennych. Rozkład normalny. Testy normalności rozkładu. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 84–111). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 148–156, 197–233). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/Statystyki_opisowe.qmd) |
 | Analiza korelacji. Zasady wyboru współczynnika korelacji. Współczynnik determinacji. Analiza kontyngencji. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 198–221, 149–157). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 340–361, 241–245). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/Analiza_korelacji.qmd) |
-| Jednozmiennowa analiza regresji. Równanie regresji. Miary dopasowania modelu, współczynniki regresji. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 224–234). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 378–418). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/Jednozmiennowa_analiza.qmd) |
-| Parametryczne testy różnic: test t dla prób niezależnych, test t dla prób zależnych, test t dla jednej próby. Test jednorodności wariancji. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 160–184). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 275–309). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/Parametryczne_testy.qmd) |
-| Nieparametryczne testy różnic: test U Manna-Whitneya, test Wilcoxona. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 185–192). Wydawnictwo Akademickie Sedno. | [📘 Zobacz lekcję](Cwiczenia/Nieparametryczne_testy.qmd) |
+| Parametryczne i nieparametryczne testy różnic dla prób niezależnych: test t dla prób niezależnych, test U Manna-Whitneya | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 160–192). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 275–309). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/Niezalezne.qmd) |
+| Parametryczne i nieparametryczne testy różnic dla prób zależnych: test t dla prób zależnych, test Wilcoxona. Test t dla jednej próby. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1. Praktyczne wprowadzenie do wnioskowania statystycznego* (s. 160–192). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1. Przewodnik naukowego turysty* (s. 275–309). Wydawnictwo Naukowe PWN. | [📘 Zobacz lekcję](Cwiczenia/Zalezne.qmd) |
+| Podsumowanie analiz poznanych podczas ćwiczeń i kolokwium semestralne. | Literatura do ćwiczeń z całego semestru. | [📘 Zobacz lekcję](Cwiczenia/Podsumowanie.qmd) |
 
 
 
@@ -154,8 +154,8 @@ Poniżej znajduje się harmonogram zajęć ćwiczeniowych z przedmiotu Podstawy 
 Podczas ćwiczeń będziemy pracować w oparciu o:  
 
 - **Praktyczne zadania w SPSS** – każdy temat zajęć realizujemy przy użyciu SPSS.
-- **Zadania domowe** – dwa projekty obejmujące analizę i interpretację danych w SPSS.
-- **Kolokwium praktyczne** – pod koniec semestru sprawdzimy umiejętności analizy danych i interpretacji wyników.
+- **Zadania domowe** – dwa zadania obejmujące analizę i interpretację danych w SPSS.
+- **Kolokwium praktyczne** – na ostatnich zajęciach sprawdzimy umiejętności analizy danych i interpretacji wyników.
 - **Obecność na zajęciach** – obowiązkowa; dopuszczalna jest jedna nieobecność, dodatkowe wymagają odrobienia z inną grupą.  
 
 :::
@@ -179,7 +179,7 @@ Zaglądaj tutaj regularnie, ponieważ zakładka [zadania](Zadania.qmd) będzie *
 
 - Aby zaliczyć ćwiczenia, należy zdobyć **minimum 51 punktów**.  
 - Za każde z dwóch zadań domowych trzeba uzyskać co najmniej **5 punktów**.  
-- **Kolokwium praktyczne** odbywa się po zakończeniu wszystkich ćwiczeń.  
+- **Kolokwium praktyczne** odbywa się na ostatnich ćwiczeniach.  
 - Nieobecność powyżej 1 zajęć wymaga odrobienia z inną grupą; **trzy nieobecności lub więcej** oznaczają niezaliczenie kursu.  
 - Za każdy dzień opóźnienia w oddaniu zadania domowego odejmowany jest **1 punkt**.
 :::

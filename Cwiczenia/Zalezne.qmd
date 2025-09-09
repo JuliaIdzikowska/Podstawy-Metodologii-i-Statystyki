@@ -1,0 +1,4 @@
+---
+title: "Parametryczne i nieparametryczne testy różnic dla prób zależnych: test t dla prób zależnych, test Wilcoxona. Test t dla jednej próby"
+---
+

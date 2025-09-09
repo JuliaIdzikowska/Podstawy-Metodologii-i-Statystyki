@@ -1,7 +1,8 @@
 ---
 title: "1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych"
 ---
-Sylabus do zajęć nr 1
+
+# Sylabus i cele zajęć #1
 
 |  | Treści programowe | Literatura obowiązkowa |
 |-:|---|---|
@@ -36,7 +37,7 @@ Poniżej przykład interfejsu SPSS z **widokiem danych** i zaznaczonymi kluczowy
   <img src="img/spss_interface_data_dobrostan.PNG" alt="Interfejs SPSS – główne elementy">
 
   <!-- 1:   Pasek narzędzi i menu główne -->
-  <a class="hotspot" style="top:-3%; left:-1%;"
+  <a class="hotspot" style="top:-3%; left:25%;"
      href="#opis-1" aria-label="Pasek narzędzi i menu główne"
      data-label="1" data-tooltip="Pasek narzędzi i menu główne"></a>
      
@@ -51,10 +52,11 @@ Poniżej przykład interfejsu SPSS z **widokiem danych** i zaznaczonymi kluczowy
      data-label="3" data-tooltip="Przełączanie widoków"></a>
 </div>
 
+# Tworzenie baz danych
 
 
 ::: callout-note
-### 📝 Zadanie do wykonania: Utworzenie bazy danych
+### 📝 Zadanie do wykonania: Tworzenie bazy danych
 1. Otwórz SPSS i stwórz nowy plik danych.  
 2. Wprowadź zmienne (min. 5): płeć, wiek, sen, nastój (1-10), ocena satysfakcji (1-5).
 3. Wpisz dane dla 5 fikcyjnych osób. 
@@ -62,6 +64,8 @@ Poniżej przykład interfejsu SPSS z **widokiem danych** i zaznaczonymi kluczowy
 
 
 # Podstawowe operacje na danych
+
+
 
 
 

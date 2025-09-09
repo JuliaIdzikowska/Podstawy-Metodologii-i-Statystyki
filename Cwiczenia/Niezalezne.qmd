@@ -1,0 +1,4 @@
+---
+title: "Parametryczne i nieparametryczne testy różnic dla prób niezależnych: test t dla prób niezależnych, test U Manna-Whitneya"
+---
+
