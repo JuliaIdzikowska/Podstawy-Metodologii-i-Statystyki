@@ -196,13 +196,97 @@ Zdefiniuj WARTOŚCI: (wartość) 1 - (etykieta) państwowa; (wartość) 2 - (ety
 ![](img/tworzeniebazyfirma.png)
 :::
 
-# Podstawowe operacje na danych
+# Podstawowe operacje na danych i tworzenie wskaźników ziemnnych 
+
+Zmienna może mieć wiele różnych wskaźników. Przykładowo, jeśli chcemy zbadać poziom ekstrawersji, możemy zastosować różne wskaźniki, np. zbadać ludzi testem EPQ-(R) - Eysenck Personality Questionnaire-Revised - opartym na teorii osobowości eysencka (Eysenck, Eysenck i Barrett, 1985) lub NEO-FFI - kwestionariusz osobowości autorstwa Costy i Mccre (1992), bazującym na teorii "Wielkiej Piątki". Innym sposobem, mniej psychometrycznym, mógłby być pomiar opierający się na określeniu liczby kontaktów towarzyskich nawiązywanych w ciągu określonego czasu lub liczby znajomych na social mediach. **Od tego, w jaki sposób zbierzemy informacje, zależy jaką analizę statystyczną będziemy mogli zastosować do naszych wyników.** 
+
+::: callout-note
+### ❓ Zastanów się
+Jak myślisz, czy badając cechę ekstrawersji, dobrym pomysłem jest zadać osobom badanym pytanie *Czy jesteś ekstrawertyczny/a?* 
+
+Jak się domyślasz, nie :) 
+
+A czy może jakimś innym jednym pytaniem jesteśmy w stanie dobrze zbadać cechę ekstrawersji? np. "Czy lubisz rozmawiać z ludźmi?"
+:::
+
+::: {.callout-note collapse=true title="💬 Zobacz odpowiedź"}
+Nie! Na podstawie jednego pytania trudno byłoby uzyskać wnioski na temat poziomu ekstrawersji - nie jest to jednowymiarowe zjawisko, możliwe do zbadania jednym pytaniem. Gdy zadamy pytania odwołujące się do różńych sytuacji, emocji, uczuć, zachowań, planów itd. mamy szansę uzyskać obraz, który będzie pełniejszy i bardziej wiarygodny. 
+:::
+
+#### Wskaźniki
+
+Dbając o rzetelność (czyli powtarzalność i stabliność pomiaru) zbieranych informacji nie bazujemy na pojedynczej obserwacji. Jedna cecha jest zwykle mierzona za pomocą kilku lub kilkunastu pozycji testowych, które razem tworzą skalę, dlatego potrzebujemy **wskaźnika** - nowej zmiennej w pliku z danymi, która podsumuje wyniki każdej osoby z wszystkich pozycji testowych.
+
+**Przykład:** Załóżmy, że chcemy zbadać satysfakcję z pizzy. Nie możemy po prostu zapytać: „Czy jesteś usatysfakcjonowany z pizzy?”, bo to zbyt ogólne pytanie. Musimy więc rozłożyć to pojęcie na czynniki pierwsze, czyli określić, co składa się na satysfakcję.
+
+Co mierzymy (podstawa teoretyczna): pizza neapolitańska z dowozem. 
+
+Nasze zmienne to: smak ciasta, brzegi, stopień wypieczenia, temperatura, czas dostawy, cena
+
+Tworzymy pozycje testowe - stwierdzenia satysfakcji z pizzy:
+
+- cienkie ciasto na środku -> "Pizza była cienka na środku"
+- wyrośnięte brzegi -> "Brzegi były wyrośnięte i sprężyste"
+- stopień wypieczenia -> "Pizza miała czarne bąble na brzegach" 
+- pizza dotarła ciepła -> **"Pizza była zimna"**
+- cena vs. jakość -> "Uważam, że cena jest adekwatna do jakości"
+
+Wszystkie możliwe odpowiedzi do pozycji testowych nazywamy **kafeterią**.
+Niech każda z tych odpowiedzi będzie oceniana w skali 1–5.
+
+1 - zdecydowanie się nie zgadzam
+
+2 - raczej się nie zgadzam
+
+3 - ani się zgadza, ani nie zgadzam
+
+4 - raczej się zgadzam
+
+5 - zdecydowanie się zgadzam
+
+Zsumowanie lub uśrednienie ich wyników stworzy **wskaźnik ogólnej satysfakcji z pizzy** – jedną zmienną, którą możemy dalej analizować w SPSS.
 
 
+⚠️ **Pamiętaj:** 
+**Zmienna a wskaźnik** 
+Język metodologii mówi, że zmienna to pewna mierzona właściwość, a jej operacjonalizację (sposób pomiaru zmiennej) nazywamy wskaźnikiem. UWAGA! W SPSS zmienną nazywa każdy dokonany pomiar, dlatego w terminologii programu każdy wskaźnik jest zmienną (ponieważ przyjmuje zmienne wartości). 
+
+#### Pytania odwrócone 
+
+Jak możesz zauważyć jedna pozycja została skonstruowana w odwrotny sposób, przez tzw. inwersję. Tworzenie pozycji odwróconych jest dobre z kilku względów: unikamy ciągłego potakiwania ze strony badanego i niedokładnego czytania lub pomijania pozycji, licząc, że wybijemy osobę z bezrefleksyjego rytmu odpowiadania i uzyskamy efekt zastanowienia się nad odpowiedzią oraz by przedstawić osobie badanej inną perspektywę na problem (Hornowska, 2001). 
 
 
-# Tworzenie wskaźników ziemnnych 
+#### Odwracanie skali
 
+Nie polecamy tego robić ręcznie (czasochłonne i łatwo się pomylić)
+W SPSS mamy dwa sposoby na odwracanie skali. 
+
+- REKODOWANIE
+- OBLICZ WARTOŚCI
+
+I SPOSÓB - **REKODOWANIE**
+
+W pakiecie SPSS są dostępne opcje REKODUJ NA TE SAME ZMIENNE i REKODUJ NA INNE ZMIENNE. Wybierając pierwszą ocpję, tracimy dane surowe (a tego nie chcemy), dlatego wybieramy opcję drugą, tworząc nową zmienną. 
+
+Podążaj: `Menu Pzekształcenia → Rekoduj na inne zmienne → wybierz zminą wynikową → wprowadź nazwę → przycisk zmień → przejdź do wartości źródłowe i wynikowe → zamień 1 na 5, 5 na 1, 2 na 4, 4 na 2 → przycisk dalej → OK`. 
+
+Skale są odwrócone. W zakładce ZMIENNE znajdziesz je na końcu listy, w zakładce DANE zobaczysz, że zmienne mają odwrócone wartości w stosunku do swoich wyjściowych odpowiedników.
+
+
+II SPOSÓB - **OBLICZ WARTOŚCI**
+
+Ten sposób jest nieco szybszy i bardziej przydatny, gdy kafeteria odpowiedzi jest większa (np. zamiast 5 to 10). Stosujemy tutaj prosty wzór: (liczba stopni skali + 1) - (nasza zmienna) 
+
+Podążaj: `Menu Pzekształcenia → Oblicz wartości → (w naszym przypadku) 6 - wybrana zmienna → OK`. 
+
+Niezależnie od tego, jakim sposobem się posłużymy, efekt będzie taki sam. 
+
+
+#### Tworzenie wskaźnika 
+
+Po odwróceniu skal możemy przystąpić już do tworzenia wskaźnika. Będzie to zmienna, która podsumuje wyniki każdej osoby otrzymywane na wszystkich pozycjach kwestionariusza. Znów jest kilka sposobów, by to zrobić. Oto najbardziej popularne:
+
+**UŚREDNIENIE PYTAŃ**
 
 
 
@@ -224,10 +308,16 @@ Zdefiniuj WARTOŚCI: (wartość) 1 - (etykieta) państwowa; (wartość) 2 - (ety
 ### Widok danych
 **Widok danych** – zakładka w SPSS, gdzie wprowadzamy dane (wiersze = osoby, kolumny = zmienne).  
 
+### Pytania odwrócone
+**Pytania odwrócone** – inaczej *inwersja*, pozycja, w której znaczenie jest odwrotne względem pozostałych. Wymaga przekształcenia wartości, by interpretacja była spójna. 
+
 ### Rekodowanie
-**Rekodowanie** – zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna”).  
+**Rekodowanie** – to jedna z podstawowych operacji na danych, jest to zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna” lub w przypadku, gdy mamy w teście pozycje odwrócone).
+
+### Oblicz wartości
+**Oblicz wartości** – druga z podstawowych operacji na danych, przydatna, gdy chcemy stworzyć nową zmienną w przypadku pozycji odwróconych. Wzór: (liczba stopni skali + 1) - (nasza zmienna).
 
 ### Wskaźnik zmiennej
-**Wskaźnik zmiennej** – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu).  
+**Wskaźnik zmiennej** – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu/ekstrawersji).  
 :::
 

@@ -390,16 +390,93 @@ Zła definicja (np. traktowanie zmiennej jakościowej jako ilościowej) prowadzi
 </div>
 </div>
 </section>
-<section id="podstawowe-operacje-na-danych" class="level1">
-<h1>Podstawowe operacje na danych</h1>
+<section id="podstawowe-operacje-na-danych-i-tworzenie-wskaźników-ziemnnych" class="level1">
+<h1>Podstawowe operacje na danych i tworzenie wskaźników ziemnnych</h1>
+<p>Zmienna może mieć wiele różnych wskaźników. Przykładowo, jeśli chcemy zbadać poziom ekstrawersji, możemy zastosować różne wskaźniki, np. zbadać ludzi testem EPQ-(R) - Eysenck Personality Questionnaire-Revised - opartym na teorii osobowości eysencka (Eysenck, Eysenck i Barrett, 1985) lub NEO-FFI - kwestionariusz osobowości autorstwa Costy i Mccre (1992), bazującym na teorii “Wielkiej Piątki”. Innym sposobem, mniej psychometrycznym, mógłby być pomiar opierający się na określeniu liczby kontaktów towarzyskich nawiązywanych w ciągu określonego czasu lub liczby znajomych na social mediach. <strong>Od tego, w jaki sposób zbierzemy informacje, zależy jaką analizę statystyczną będziemy mogli zastosować do naszych wyników.</strong></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+❓ Zastanów się
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Jak myślisz, czy badając cechę ekstrawersji, dobrym pomysłem jest zadać osobom badanym pytanie <em>Czy jesteś ekstrawertyczny/a?</em></p>
+<p>Jak się domyślasz, nie :)</p>
+<p>A czy może jakimś innym jednym pytaniem jesteśmy w stanie dobrze zbadać cechę ekstrawersji? np. “Czy lubisz rozmawiać z ludźmi?”</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="💬 Zobacz odpowiedź">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+💬 Zobacz odpowiedź
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Nie! Na podstawie jednego pytania trudno byłoby uzyskać wnioski na temat poziomu ekstrawersji - nie jest to jednowymiarowe zjawisko, możliwe do zbadania jednym pytaniem. Gdy zadamy pytania odwołujące się do różńych sytuacji, emocji, uczuć, zachowań, planów itd. mamy szansę uzyskać obraz, który będzie pełniejszy i bardziej wiarygodny.</p>
+</div>
+</div>
+</div>
+<section id="wskaźniki" class="level4">
+<h4 class="anchored" data-anchor-id="wskaźniki">Wskaźniki</h4>
+<p>Dbając o rzetelność (czyli powtarzalność i stabliność pomiaru) zbieranych informacji nie bazujemy na pojedynczej obserwacji. Jedna cecha jest zwykle mierzona za pomocą kilku lub kilkunastu pozycji testowych, które razem tworzą skalę, dlatego potrzebujemy <strong>wskaźnika</strong> - nowej zmiennej w pliku z danymi, która podsumuje wyniki każdej osoby z wszystkich pozycji testowych.</p>
+<p><strong>Przykład:</strong> Załóżmy, że chcemy zbadać satysfakcję z pizzy. Nie możemy po prostu zapytać: „Czy jesteś usatysfakcjonowany z pizzy?”, bo to zbyt ogólne pytanie. Musimy więc rozłożyć to pojęcie na czynniki pierwsze, czyli określić, co składa się na satysfakcję.</p>
+<p>Co mierzymy (podstawa teoretyczna): pizza neapolitańska z dowozem.</p>
+<p>Nasze zmienne to: smak ciasta, brzegi, stopień wypieczenia, temperatura, czas dostawy, cena</p>
+<p>Tworzymy pozycje testowe - stwierdzenia satysfakcji z pizzy:</p>
+<ul>
+<li>cienkie ciasto na środku -&gt; “Pizza była cienka na środku”</li>
+<li>wyrośnięte brzegi -&gt; “Brzegi były wyrośnięte i sprężyste”</li>
+<li>stopień wypieczenia -&gt; “Pizza miała czarne bąble na brzegach”</li>
+<li>pizza dotarła ciepła -&gt; <strong>“Pizza była zimna”</strong></li>
+<li>cena vs.&nbsp;jakość -&gt; “Uważam, że cena jest adekwatna do jakości”</li>
+</ul>
+<p>Wszystkie możliwe odpowiedzi do pozycji testowych nazywamy <strong>kafeterią</strong>. Niech każda z tych odpowiedzi będzie oceniana w skali 1–5.</p>
+<p>1 - zdecydowanie się nie zgadzam</p>
+<p>2 - raczej się nie zgadzam</p>
+<p>3 - ani się zgadza, ani nie zgadzam</p>
+<p>4 - raczej się zgadzam</p>
+<p>5 - zdecydowanie się zgadzam</p>
+<p>Zsumowanie lub uśrednienie ich wyników stworzy <strong>wskaźnik ogólnej satysfakcji z pizzy</strong> – jedną zmienną, którą możemy dalej analizować w SPSS.</p>
+<p>⚠️ <strong>Pamiętaj:</strong> <strong>Zmienna a wskaźnik</strong> Język metodologii mówi, że zmienna to pewna mierzona właściwość, a jej operacjonalizację (sposób pomiaru zmiennej) nazywamy wskaźnikiem. UWAGA! W SPSS zmienną nazywa każdy dokonany pomiar, dlatego w terminologii programu każdy wskaźnik jest zmienną (ponieważ przyjmuje zmienne wartości).</p>
 </section>
-<section id="tworzenie-wskaźników-ziemnnych" class="level1">
-<h1>Tworzenie wskaźników ziemnnych</h1>
+<section id="pytania-odwrócone" class="level4">
+<h4 class="anchored" data-anchor-id="pytania-odwrócone">Pytania odwrócone</h4>
+<p>Jak możesz zauważyć jedna pozycja została skonstruowana w odwrotny sposób, przez tzw. inwersję. Tworzenie pozycji odwróconych jest dobre z kilku względów: unikamy ciągłego potakiwania ze strony badanego i niedokładnego czytania lub pomijania pozycji, licząc, że wybijemy osobę z bezrefleksyjego rytmu odpowiadania i uzyskamy efekt zastanowienia się nad odpowiedzią oraz by przedstawić osobie badanej inną perspektywę na problem (Hornowska, 2001).</p>
+</section>
+<section id="odwracanie-skali" class="level4">
+<h4 class="anchored" data-anchor-id="odwracanie-skali">Odwracanie skali</h4>
+<p>Nie polecamy tego robić ręcznie (czasochłonne i łatwo się pomylić) W SPSS mamy dwa sposoby na odwracanie skali.</p>
+<ul>
+<li>REKODOWANIE</li>
+<li>OBLICZ WARTOŚCI</li>
+</ul>
+<p>I SPOSÓB - <strong>REKODOWANIE</strong></p>
+<p>W pakiecie SPSS są dostępne opcje REKODUJ NA TE SAME ZMIENNE i REKODUJ NA INNE ZMIENNE. Wybierając pierwszą ocpję, tracimy dane surowe (a tego nie chcemy), dlatego wybieramy opcję drugą, tworząc nową zmienną.</p>
+<p>Podążaj: <code>Menu Pzekształcenia → Rekoduj na inne zmienne → wybierz zminą wynikową → wprowadź nazwę → przycisk zmień → przejdź do wartości źródłowe i wynikowe → zamień 1 na 5, 5 na 1, 2 na 4, 4 na 2 → przycisk dalej → OK</code>.</p>
+<p>Skale są odwrócone. W zakładce ZMIENNE znajdziesz je na końcu listy, w zakładce DANE zobaczysz, że zmienne mają odwrócone wartości w stosunku do swoich wyjściowych odpowiedników.</p>
+<p>II SPOSÓB - <strong>OBLICZ WARTOŚCI</strong></p>
+<p>Ten sposób jest nieco szybszy i bardziej przydatny, gdy kafeteria odpowiedzi jest większa (np. zamiast 5 to 10). Stosujemy tutaj prosty wzór: (liczba stopni skali + 1) - (nasza zmienna)</p>
+<p>Podążaj: <code>Menu Pzekształcenia → Oblicz wartości → (w naszym przypadku) 6 - wybrana zmienna → OK</code>.</p>
+<p>Niezależnie od tego, jakim sposobem się posłużymy, efekt będzie taki sam.</p>
+</section>
+<section id="tworzenie-wskaźnika" class="level4">
+<h4 class="anchored" data-anchor-id="tworzenie-wskaźnika">Tworzenie wskaźnika</h4>
+<p>Po odwróceniu skal możemy przystąpić już do tworzenia wskaźnika. Będzie to zmienna, która podsumuje wyniki każdej osoby otrzymywane na wszystkich pozycjach kwestionariusza. Znów jest kilka sposobów, by to zrobić. Oto najbardziej popularne:</p>
+<p><strong>UŚREDNIENIE PYTAŃ</strong></p>
+</section>
 </section>
 <section id="słowniczek-pojęć" class="level1">
 <h1>📖 Słowniczek pojęć</h1>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">SPSS</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Zmienna</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Wartość</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false">Widok ziennych</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-5" role="tab" aria-controls="tabset-1-5" aria-selected="false">Widok danych</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-6-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-6" role="tab" aria-controls="tabset-1-6" aria-selected="false">Rekodowanie</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-7-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-7" role="tab" aria-controls="tabset-1-7" aria-selected="false">Wskaźnik zmiennej</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">SPSS</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Zmienna</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Wartość</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false">Widok ziennych</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-5" role="tab" aria-controls="tabset-1-5" aria-selected="false">Widok danych</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-6-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-6" role="tab" aria-controls="tabset-1-6" aria-selected="false">Pytania odwrócone</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-7-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-7" role="tab" aria-controls="tabset-1-7" aria-selected="false">Rekodowanie</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-8-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-8" role="tab" aria-controls="tabset-1-8" aria-selected="false">Oblicz wartości</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-9-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-9" role="tab" aria-controls="tabset-1-9" aria-selected="false">Wskaźnik zmiennej</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
 <p><strong>SPSS (Statistical Package for the Social Sciences)</strong> – program do analizy statystycznej danych, szeroko wykorzystywany w naukach społecznych, psychologii i biznesie.</p>
@@ -417,10 +494,16 @@ Zła definicja (np. traktowanie zmiennej jakościowej jako ilościowej) prowadzi
 <p><strong>Widok danych</strong> – zakładka w SPSS, gdzie wprowadzamy dane (wiersze = osoby, kolumny = zmienne).</p>
 </div>
 <div id="tabset-1-6" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-6-tab">
-<p><strong>Rekodowanie</strong> – zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna”).</p>
+<p><strong>Pytania odwrócone</strong> – inaczej <em>inwersja</em>, pozycja, w której znaczenie jest odwrotne względem pozostałych. Wymaga przekształcenia wartości, by interpretacja była spójna.</p>
 </div>
 <div id="tabset-1-7" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-7-tab">
-<p><strong>Wskaźnik zmiennej</strong> – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu).</p>
+<p><strong>Rekodowanie</strong> – to jedna z podstawowych operacji na danych, jest to zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna” lub w przypadku, gdy mamy w teście pozycje odwrócone).</p>
+</div>
+<div id="tabset-1-8" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-8-tab">
+<p><strong>Oblicz wartości</strong> – druga z podstawowych operacji na danych, przydatna, gdy chcemy stworzyć nową zmienną w przypadku pozycji odwróconych. Wzór: (liczba stopni skali + 1) - (nasza zmienna).</p>
+</div>
+<div id="tabset-1-9" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-9-tab">
+<p><strong>Wskaźnik zmiennej</strong> – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu/ekstrawersji).</p>
 </div>
 </div>
 </div>
