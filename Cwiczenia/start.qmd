@@ -8,7 +8,8 @@ format:
     link-external-icon: true
 ---
 
-Zanim rozpoczniemy pierwsze ćwiczenia, upewnij się, że masz zainstalowany i aktywowany program **IBM SPSS Statistics**.  
+Upewnij się, że masz zainstalowany i aktywowany program **IBM SPSS Statistics** na swoim prywatnym komputerze. Jest to ważne do wykonywania zadań zadomowych i ćwiczenia zdobytych umiejętności pomiędzy zajęciami.
+
 Poniżej znajdziesz krótką instrukcję oraz link do oficjalnych materiałów SWPS, które przeprowadzą Cię krok po kroku przez proces instalacji.
 
 ## Jak uzyskać dostęp do SPSS?

@@ -1,5 +1,5 @@
 ---
-title: "1. SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych"
+title: "1. Wprowadzenie do SPSS | Tworzenie baz danych | Podstawowe operacje na danych | Tworzenie wskaźników zmiennych"
 ---
 
 # Sylabus i cele zajęć #1
@@ -22,7 +22,9 @@ SPSS = Statistical Package for Social Sciences
 
 Pakiet wykorzystywany powszechnie w naukach społecznych: psychologii, socjologii, pedagogice, ale też służy do analizy danych z systemów operacyjnych, transakcyjnych, danych sprzedażowych... zastosowanie wykracza poza zagadnienia sugerowane nazwą pakietu. 
 
-# Interfejs SPSS
+# Wprowadzenie do SPSS
+
+## Interfejs SPSS
 
 Po uruchomieniu programu SPSS zobaczysz **okno główne**, które składa się z dwóch podstawowych widoków:  
 
@@ -32,6 +34,69 @@ Po uruchomieniu programu SPSS zobaczysz **okno główne**, które składa się z
 Na górze znajduje się **pasek narzędzi i menu główne**, w którym znajdziesz wszystkie najważniejsze opcje analizy (m.in. *Analiza*, *Przekształcenia*, *Wykresy*).  
 
 Na dole okna możesz przełączać się pomiędzy **widokiem danych** i **widokiem zmiennych**, w zależności od tego, czy chcesz **pracować na danych** czy **definiować zmienne**.  
+
+
+## Widok zmiennych 
+Widok zmiennych w SPSS działa jak **słownik danych** — to tutaj szczegółowo opisujemy wszystkie zmienne w pliku: ich nazwy, typy, sposób kodowania i poziom pomiaru.  
+
+> **Dlaczego to ważne?**  
+> Dobrze uzupełnione informacje o zmiennych ułatwiają orientację w pliku i poprawiają czytelność raportów wyników analiz.  
+
+---
+
+**Najważniejsze właściwości zmiennych**
+
+**Nazwa zmiennej**: krótka, precyzyjna i bez spacji (np. `wiek`, `plec`, `dobrostan`).  
+
+**Typ zmiennej**: *Numeryczny* (liczbowy) — umożliwia wykonywanie obliczeń lub *Łańcuchowy (string)* — tekstowy, służy np. do opisu zawodu.  
+⚠️ Uwaga: SPSS przeprowadza analizy tylko na liczbach!  
+
+** Etykieta**: pełniejszy opis zmiennej, np. całe pytanie z kwestionariusza.Dzięki etykietom raporty są bardziej zrozumiałe.  
+
+**Wartości** : kodowanie odpowiedzi liczbowych, np.: 
+
+- `1 = kobieta, 2 = mężczyzna`  
+- `1 = bardzo rzadko, 2 = rzadko, 3 = przeciętnie, 4 = często, 5 = bardzo często`  
+
+**Poziom pomiaru**: określa, jakiego rodzaju jest zmienna:  
+- *Nominalna* → kategorie bez uporządkowania (np. płeć, zawód)  
+- *Porządkowa* → kategorie z uporządkowaniem (np. poziom wykształcenia)  
+- *Ilościowa* → zmienne liczbowe (np. wiek, staż pracy)  
+
+---
+
+Najważniejsze właściwości zmiennych to:
+
+- **Nazwa zmiennej** — krótka, precyzyjna i bez spacji (np. `wiek`, `plec`, nazwa podskali).  
+- **Typ zmiennej** — numeryczny (*liczbowy*) lub tekstowy (*string*). Uwaga: program rozumie i robi obliczenia jedynie na liczbach. 
+- **Etykieta** — gdy nazwa zmiennej jest zbyt krótka, to etykieta przedstawia bardziej szczegółowe informacje o tym, co oznaczają zmienne (np. pełne brzmienie pytania czy stwierdzenia w ankiecie)
+- **Wartości** — kodowanie wartości liczbowych (np. 1 = kobieta, 2 = mężczyzna lub 1 = bardzo rzadko, 2 = rzadko, 3 = przeciętnie 4 = często, 5 = bardzo często).  
+- **Poziom pomiaru** — skala zmiennej:  
+  - *Nominalna* (np. płeć, zawód),  
+  - *Porządkowa* (np. poziom wykształcenia),  
+  - *Ilościowa* (np. wiek, staż pracy).  
+
+Przykładowy widok zmiennych w SPSS:  
+
+ <!-- HTML: obraz + hotspoty -->
+<div class="annotated-image">
+  <img src="img/widokzmiennych.png" alt="Widok zmiennych – kluczowe elementy">
+ 
+  <!-- 1: Właściwości zmiennych w kolumnach -->
+  <a class="hotspot" style="top: 2%; left:27%;"
+     href="#opis-1" aria-label="Właściwości zmiennych (w kolumnach)"
+     data-label="1" data-tooltip="Właściwości zmiennych (w kolumnach)"></a>
+     
+  <!-- 2: Właściwości zmiennych w kolumnach -->
+  <a class="hotspot" style="top: 10%; left:67%;"
+     href="#opis-2" aria-label="Poziom pomiaru poszczególnych zmiennych"
+     data-label="2" data-tooltip="Poziom pomiaru poszczególnych zmiennych"></a>
+---
+
+::: callout-tip
+👉 **Wskazówka:** Poprawne zdefiniowanie zmiennych to podstawa każdej analizy.  
+Zła definicja (np. traktowanie zmiennej jakościowej jako ilościowej) prowadzi do błędnych wyników.  
+:::
 
 
 ## Widok danych
@@ -66,56 +131,6 @@ Wpisując dane o osobie badanej, należy pamiętać o tym, że wyniki jednej oso
 **Dane surowe** to wszystkie wyniki zebrane w badaniu **w nieprzetworzonej formie** – takie, jakie pochodzą bezpośrednio od osoby badanej (np. odpowiedzi w kwestionariuszu, punkty w teście, czas reakcji w eksperymencie).  
 
 
-
-## Widok zmiennych 
-Widok zmiennych w SPSS działa jak **słownik danych** — to tutaj szczegółowo opisujemy wszystkie zmienne w pliku: ich nazwy, typy, sposób kodowania i poziom pomiaru.  
-
-> **Dlaczego to ważne?**  
-> Dobrze uzupełnione informacje o zmiennych ułatwiają orientację w pliku i poprawiają czytelność raportów wyników analiz.  
-
----
-
-**Najważniejsze właściwości zmiennych**
-
-**Nazwa zmiennej**: krótka, precyzyjna i bez spacji (np. `wiek`, `plec`, `dobrostan`).  
-
-**Typ zmiennej**: *Numeryczny* (liczbowy) — umożliwia wykonywanie obliczeń lub *Łańcuchowy (string)* — tekstowy, służy np. do opisu zawodu.  
-⚠️ Uwaga: SPSS przeprowadza analizy tylko na liczbach!  
-
-** Etykieta**: pełniejszy opis zmiennej, np. całe pytanie z kwestionariusza.Dzięki etykietom raporty są bardziej zrozumiałe.  
-
-**Wartości** : kodowanie odpowiedzi liczbowych, np.:  
-- `1 = kobieta, 2 = mężczyzna`  
-- `1 = bardzo rzadko, 2 = rzadko, 3 = przeciętnie, 4 = często, 5 = bardzo często`  
-
-**Poziom pomiaru**: określa, jakiego rodzaju jest zmienna:  
-- *Nominalna* → kategorie bez uporządkowania (np. płeć, zawód)  
-- *Porządkowa* → kategorie z uporządkowaniem (np. poziom wykształcenia)  
-- *Ilościowa* → zmienne liczbowe (np. wiek, staż pracy)  
-
----
-
-Najważniejsze właściwości zmiennych to:
-- **Nazwa zmiennej** — krótka, precyzyjna i bez spacji (np. `wiek`, `plec`, nazwa podskali).  
-- **Typ zmiennej** — numeryczny (*liczbowy*) lub tekstowy (*string*). Uwaga: program rozumie i robi obliczenia jedynie na liczbach. 
-- **Etykieta** — gdy nazwa zmiennej jest zbyt krótka, to etykieta przedstawia bardziej szczegółowe informacje o tym, co oznaczają zmienne (np. pełne brzmienie pytania czy stwierdzenia w ankiecie)
-- **Wartości** — kodowanie wartości liczbowych (np. 1 = kobieta, 2 = mężczyzna lub 1 = bardzo rzadko, 2 = rzadko, 3 = przeciętnie 4 = często, 5 = bardzo często).  
-- **Poziom pomiaru (Measure)** — skala zmiennej:  
-  - *Nominalna* (np. płeć, zawód),  
-  - *Porządkowa* (np. poziom wykształcenia),  
-  - *Ilościowa* (np. wiek, staż pracy).  
-
-Przykładowy widok zmiennych w SPSS:  
-
-![Widok zmiennych w SPSS](img/widokzmiennych.png)
-
----
-
-::: callout-tip
-👉 **Wskazówka:** Poprawne zdefiniowanie zmiennych to podstawa każdej analizy.  
-Zła definicja (np. traktowanie zmiennej jakościowej jako ilościowej) prowadzi do błędnych wyników.  
-:::
-
 **Kodowanie danych** to proces przekładania tekstowych informacji o osobie na informacje liczbowe, np. płeć. 
 
 
@@ -128,6 +143,10 @@ Osoby badane umieszczamy w wierszach, zmienne w kolumnach,
 
 # Tworzenie baz danych
 
+
+
+
+
 ::: callout-note
 ### 📝 Zadanie do wykonania: Tworzenie bazy danych
 1. Otwórz SPSS i stwórz nowy plik danych.  
@@ -139,6 +158,9 @@ Osoby badane umieszczamy w wierszach, zmienne w kolumnach,
 # Podstawowe operacje na danych
 
 
+
+
+# Tworzenie wskaźników ziemnnych 
 
 
 
@@ -155,16 +177,16 @@ Osoby badane umieszczamy w wierszach, zmienne w kolumnach,
 ### Wartość
 **Wartość (Value)** – konkretna liczba lub kategoria przypisana danej zmiennej, np. wiek = 23, płeć = 1 (kobieta).  
 
-### Variable View
-**Variable View** – zakładka w SPSS, gdzie definiujemy zmienne (nazwy, typy, etykiety, kody wartości).  
+### Widok ziennych
+**Widok ziennych* – zakładka w SPSS, gdzie definiujemy zmienne (nazwy, typy, etykiety, kody wartości).  
 
-### Data View
-**Data View** – zakładka w SPSS, gdzie wprowadzamy dane (wiersze = osoby, kolumny = zmienne).  
+### Widok danych
+**Widok danych** – zakładka w SPSS, gdzie wprowadzamy dane (wiersze = osoby, kolumny = zmienne).  
 
 ### Rekodowanie
-**Rekodowanie (Recode)** – zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna”).  
+**Rekodowanie** – zamiana wartości zmiennej na inne (np. 1=„mężczyzna” → 0=„mężczyzna”).  
 
 ### Wskaźnik zmiennej
-**Wskaźnik zmiennej (Index/Composite)** – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu).  
+**Wskaźnik zmiennej** – zmienna stworzona na podstawie kilku innych (np. średnia z kilku pytań tworzy wskaźnik dobrostanu).  
 :::
 

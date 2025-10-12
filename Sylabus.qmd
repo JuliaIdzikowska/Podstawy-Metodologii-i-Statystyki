@@ -105,7 +105,7 @@ toc: true
 | 2 | Statystyki opisowe zmiennych. Rozkład normalny. Testy normalności rozkładu. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1* (s. 84–111). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1* (s. 148–156, 197–233). WN PWN. |
 | 3 | Analiza korelacji. Zasady wyboru współczynnika korelacji. Współczynnik determinacji. Analiza kontyngencji. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1* (s. 198–221, 149–157). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1* (s. 340–361, 241–245). WN PWN. |
 | 4 | Parametryczne i nieparametryczne testy różnic dla prób niezależnych: test t dla prób niezależnych, test U Manna-Whitneya. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1* (s. 160–192). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1* (s. 275–309). WN PWN. |
-| 5 | Parametryczne i nieparametryczne testy różnic dla prób zależnych: test t dla prób zależnych, test Wilcoxona. Test t dla jednej próby. | Bedyńska, S., Cypryańska, M. (red.). (2013). *Statystyczny drogowskaz 1* (s. 160–192). Wydawnictwo Akademickie Sedno.<br>Józefacka, N. M., Kołek, M. F., Arciszewska-Leszczuk, A. (2023). *Metodologia i statystyka. Tom 1* (s. 275–309). WN PWN. |
+| 5 | Parametryczne i nieparametryczne testy różnic dla prób zależnych: test t dla prób zależnych, test Wilcoxona. Test t dla jednej próby. | (jak wyżej) |
 | 6 | Podsumowanie analiz poznanych podczas ćwiczeń i kolokwium semestralne. | Literatura do ćwiczeń z całego semestru. |
 
 ---
@@ -144,7 +144,7 @@ toc: true
 
 **Zasady dodatkowe.** Warunkiem przyznania punktów za poprawne odpowiedzi udzielone w ramach zadań domowych i kolokwium jest obecność właściwych analiz w raporcie generowanym przez SPSS, dodanym jako załącznik do wykonanego zadania zaliczeniowego.
 
-Czas na wykonanie każdego z dwóch zadań domowych (w terminie pierwszym i poprawkowym): dwa tygodnie od dnia udostępnienia zadania. Za każdy dzień opóźnienia w przesłaniu zadania domowego odejmowany jest 1 punkt od oceny zadania. Każde zadanie zaliczeniowe (zadania domowe i kolokwium) może być poprawiane jednokrotnie i tylko na wniosek studenta.
+Czas na wykonanie każdego z dwóch zadań domowych (w terminie pierwszym i poprawkowym): **dwa tygodnie od dnia udostępnienia zadania.** Za każdy dzień opóźnienia w przesłaniu zadania domowego odejmowany jest 1 punkt od oceny zadania. Każde zadanie zaliczeniowe (zadania domowe i kolokwium) może być poprawiane jednokrotnie i tylko na podstawie zgłoszonej przez studenta chęci poprawy.
 Udział w ćwiczeniach jest obowiązkowy. Dopuszczalna jest jedna nieobecność. Druga nieobecność wymaga zgłoszenia się do osoby prowadzącej ćwiczenia w celu otrzymania i wykonania dodatkowego zadania dotyczącego materiału realizowanego na zajęciach lub odrobienia zajęć z inną grupą ćwiczeniową. Trzy nieobecności i więcej skutkują niezaliczeniem przedmiotu.
 
 Egzamin w terminie indywidualnym lub przywróconym może mieć inną formę niż egzamin w terminie regularnym.
