@@ -156,17 +156,45 @@ Osoby badane umieszczamy w wierszach, zmienne w kolumnach,
 
 # Tworzenie baz danych
 
+Przy tworzeniu baz danych w programie SPSS należy pamiętać o kilku istotnych regułach:
 
+- **Reguła 1:** Najpierw opisujemy zmienne, ich etykiety i wartości w zakładce ZMIENNE. Dopiero potem wprowadzamy dane.
+- **Reguła 2:** Przy wprowadzaniu danych należy ponumerować ankiety / osoby badane. Dlatego pierwsza zmienna to informacja o numerze OB. 
+
+**Poszczególne kroki, by wprowadzić dane ankietowe do programu:**
+
+**Krok 1:** W zakładce ZMIENNE i wpierwszym wierzu kolumny NAZWA wpisujemy zmienną dotyczącą numeru osoby badanej (np. nob). W kolumnie etykieta opisujemy zmienną (nadajemy pełną nazwę zmiennej) "Numer osoby badanej".
+
+**Krok 2:** Kolejne zmienne pochodzą z narzędzia badawczego, np. ankiety lub testu psychologicznego.
+
+**Krok 3:** Po zdefiniowaniu zmiennych przechodzimy do zakładki DANE. Możemy wprowadzać dane z ankiety, pamiętając, ze każdy wiersz = jedna osoba badana 
+
+**Krok 4:** Zapisz zmiany w pliku!
+
+
+Przyjrzyj się ankietom z badania zadowolenia z pracy i innych aspektów działalności zawodowej i stwórz bazę danych na jej podstawie. 
+
+![Ankiety wypełnione przez osoby badane](img/ankiety1.png)
 
 
 
 ::: callout-note
 ### 📝 Zadanie do wykonania: Tworzenie bazy danych
 1. Otwórz SPSS i stwórz nowy plik danych.  
-2. Wprowadź zmienne (min. 5): płeć, wiek, sen, nastój (1-10), ocena satysfakcji (1-5).
-3. Wpisz dane dla 5 fikcyjnych osób. 
+2. Wprowadź zmienne
+3. Wpisz zebrane dane
+4. Nie zapomnij zapisać pliku!
 :::
 
+::: {.callout-note collapse=true title="💬 Zobacz przykładowe rozwiązanie"}
+Przykładowe rozwiązanie dla pozycji: *Firma: państwowa/prywatna* 
+
+Wprowadź NAZWĘ: Firma
+Wpisz ETYKIETĘ: firma, w której pracuje osoba badana
+Zdefiniuj WARTOŚCI: (wartość) 1 - (etykieta) państwowa; (wartość) 2 - (etykieta) prywatna
+
+![](img/tworzeniebazyfirma.png)
+:::
 
 # Podstawowe operacje na danych
 
