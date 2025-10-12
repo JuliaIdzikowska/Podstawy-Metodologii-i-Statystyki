@@ -110,7 +110,7 @@ Przykładowy widok zmiennych w SPSS:
      data-label="1" data-tooltip="Właściwości zmiennych (w kolumnach)"></a>
      
   <!-- 2: Właściwości zmiennych w kolumnach -->
-  <a class="hotspot" style="top: 10%; left:67%;"
+  <a class="hotspot" style="top: 2%; left:67%;"
      href="#opis-2" aria-label="Poziom pomiaru poszczególnych zmiennych"
      data-label="2" data-tooltip="Poziom pomiaru poszczególnych zmiennych"></a>
 ---
@@ -286,7 +286,22 @@ Niezależnie od tego, jakim sposobem się posłużymy, efekt będzie taki sam.
 
 Po odwróceniu skal możemy przystąpić już do tworzenia wskaźnika. Będzie to zmienna, która podsumuje wyniki każdej osoby otrzymywane na wszystkich pozycjach kwestionariusza. Znów jest kilka sposobów, by to zrobić. Oto najbardziej popularne:
 
-**UŚREDNIENIE PYTAŃ**
+I SPOSÓB - **UŚREDNIENIE PYTAŃ**
+
+Średnia to lepszy i częściej stosowany sposób, zwłaszcza, gdy stosujemy skale 5-stopniowe oraz, gdy mamy braki danych (osoba badana z niewiadomych przyczyn pominęła niektóre pozycje w teście).
+
+
+II SPOSÓB - **SUMOWANIE PYTAŃ**
+
+Suma lepiej sprawdza się przy krótkich skalach TAK/NIE. 
+
+Niezależnie od tego, czy chcemy uśrednić czy zsumować pytania, podżamy za: `Menu Pzekształcenia → Oblicz wartości → nazywamy wskaźnik i do okienka Wyrażenie Numeryczne wpisujemy wzór, który stworzy nową zmienną → OK`.
+
+III SPOSÓB - **ZLICZ WYSTĄPIENIA**
+
+Ciekawych odsyłam do *Statystycznego Drogowskazu* str. 124
+
+
 
 
 
