@@ -35,6 +35,28 @@ Na górze znajduje się **pasek narzędzi i menu główne**, w którym znajdzies
 
 Na dole okna możesz przełączać się pomiędzy **widokiem danych** i **widokiem zmiennych**, w zależności od tego, czy chcesz **pracować na danych** czy **definiować zmienne**.  
 
+Poniżej przykład interfejsu SPSS z zaznaczonymi kluczowymi elementami:  
+
+<!-- HTML: obraz + hotspoty -->
+<div class="annotated-image">
+  <img src="img/spss_interface_data_dobrostan.PNG" alt="Interfejs SPSS – główne elementy">
+
+  <!-- 1:   Pasek narzędzi i menu główne -->
+  <a class="hotspot" style="top:-3%; left:25%;"
+     href="#opis-1" aria-label="Pasek narzędzi i menu główne"
+     data-label="1" data-tooltip="Pasek narzędzi i menu główne"></a>
+     
+  <!-- 2: Okno główne: Widok danych -->
+  <a class="hotspot" style="top:50%; left:40%;"
+     href="#opis-2" aria-label="Okno główne: Widok danych"
+     data-label="2" data-tooltip="Okno główne: Widok danych"></a>
+
+  <!-- 3: Zmiana widoku zmienne/dane -->
+  <a class="hotspot" style="top:92%; left:13%;"
+     href="#opis-3" aria-label="Zmiana widoku zmienne/dane"
+     data-label="3" data-tooltip="Przełączanie widoków"></a>
+</div>
+
 
 ## Widok zmiennych 
 Widok zmiennych w SPSS działa jak **słownik danych** — to tutaj szczegółowo opisujemy wszystkie zmienne w pliku: ich nazwy, typy, sposób kodowania i poziom pomiaru.  
@@ -107,20 +129,11 @@ Poniżej przykład interfejsu SPSS z **widokiem danych** i zaznaczonymi kluczowy
 <div class="annotated-image">
   <img src="img/spss_interface_data_dobrostan.PNG" alt="Interfejs SPSS – główne elementy">
 
-  <!-- 1:   Pasek narzędzi i menu główne -->
-  <a class="hotspot" style="top:-3%; left:25%;"
-     href="#opis-1" aria-label="Pasek narzędzi i menu główne"
-     data-label="1" data-tooltip="Pasek narzędzi i menu główne"></a>
      
-  <!-- 2: Okno główne: Widok danych -->
+  <!-- 1: Okno główne: Widok danych: wprowadzone dane surowe-->
   <a class="hotspot" style="top:50%; left:40%;"
-     href="#opis-2" aria-label="Okno główne: Widok danych"
-     data-label="2" data-tooltip="Okno główne: Widok danych"></a>
-
-  <!-- 3: Zmiana widoku zmienne/dane -->
-  <a class="hotspot" style="top:92%; left:13%;"
-     href="#opis-3" aria-label="Zmiana widoku zmienne/dane"
-     data-label="3" data-tooltip="Przełączanie widoków"></a>
+     href="#opis-1" aria-label="Okno główne: Widok danych: dane surowe"
+     data-label="1" data-tooltip="Okno główne: Widok danych: Dane surowe"></a>
 </div>
 
 **Dane** to informacje o osobie badanej, a każda pojedyncza informacja stanowi osobny element danych. 
