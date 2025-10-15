@@ -95,7 +95,7 @@ Materiały są chronione hasłem i przeznaczone wyłącznie dla studentów tego 
 
 ## Wprowadzenie do kursu
 
-Kurs z **Podstaw metodologii i statystyki** ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć się zarówno teorii, jak i praktycznych umiejętności analizy danych — od tworzenia bazy w programie **SPSS**, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.
+Kurs z **Podstaw metodologii i statystyki** ma na celu wprowadzenie w podstawowe pojęcia i narzędzia statystyczne w badaniach psychologicznych. Podczas zajęć będziemy uczyć przede wszystkim praktycznych umiejętności analizy danych — od tworzenia bazy w programie **SPSS**, przez obliczanie statystyk opisowych, aż po wykonywanie testów statystycznych i interpretację wyników.
 
 Zajęcia mają charakter ćwiczeniowy, co oznacza, że większość czasu spędzimy na pracy z danymi, wykonywaniu obliczeń oraz rozwiązywaniu praktycznych problemów badawczych. Szczególny nacisk położony jest na zrozumienie logiki analizy statystycznej oraz umiejętność samodzielnego doboru odpowiednich metod do rodzaju danych i pytań badawczych.
 
@@ -120,11 +120,15 @@ W trakcie zajęć:
 
 - nauczysz się tworzyć i przygotowywać bazy danych w SPSS, 
 
-- opanujesz obliczanie i interpretację statystyk opisowych,
+- opanujesz obliczanie i interpretację statystyk opisowych oraz przeprowadzanie testów normalności rozkładu,
 
-- będziesz wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych,
+- zdobędziesz umiejętność przeprowadzania analizy korelacji i kontyngencji, 
 
-- zdobędziesz umiejętność analizy korelacji i regresji oraz interpretacji miar dopasowania modelu.
+- będziesz wybierać i stosować odpowiednie testy statystyczne – parametryczne i nieparametryczne – w zależności od rodzaju danych i pytań badawczych, 
+
+- będziesz mieć okazję do przećwiczenia umiejętności dzięki dodatkowym zadaniom, 
+
+- na ostatnich zajęciach zweryfikujesz zdobyte umiejętności. 
 
 
 
