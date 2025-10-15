@@ -266,7 +266,7 @@ W SPSS mamy dwa sposoby na odwracanie skali.
 
 I SPOSÓB - **REKODOWANIE**
 
-W pakiecie SPSS są dostępne opcje REKODUJ NA TE SAME ZMIENNE i REKODUJ NA INNE ZMIENNE. Wybierając pierwszą ocpję, tracimy dane surowe (a tego nie chcemy), dlatego wybieramy opcję drugą, tworząc nową zmienną. 
+W pakiecie SPSS są dostępne opcje REKODUJ NA TE SAME ZMIENNE i REKODUJ NA INNE ZMIENNE. Wybierając pierwszą opcję, tracimy dane surowe (a tego nie chcemy), dlatego wybieramy opcję drugą, tworząc nową zmienną. 
 
 Podążaj: `Menu Pzekształcenia → Rekoduj na inne zmienne → wybierz zminą wynikową → wprowadź nazwę → przycisk zmień → przejdź do wartości źródłowe i wynikowe → zamień 1 na 5, 5 na 1, 2 na 4, 4 na 2 → przycisk dalej → OK`. 
 
